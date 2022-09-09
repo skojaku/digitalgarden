@@ -4,4 +4,8 @@
 
 
 
-# This is my first test.
+# Welcome to my digital garden!
+
+Welcome to my digital garden! I'm a (computer scientist | network scientist) working at the intersection of Network Science and Machine Learning. 
+
+This site hosts lab notes that I created for my projects. 
