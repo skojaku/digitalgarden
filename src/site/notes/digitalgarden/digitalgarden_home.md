@@ -3,9 +3,8 @@
 ---
 
 
-
 # Welcome to my digital garden!
 
-Welcome to my digital garden! I'm a (computer scientist | network scientist) working at the intersection of Network Science and Machine Learning. 
+ Hi 👋, I am Sadamori Kojaku. I'm a (computer scientist | network scientist) working at the intersection of Network Science and Machine Learning. 
 
-This site hosts lab notes that I created for my projects. 
+This is my [Digital garden](https://maggieappleton.com/garden-history), where I share my notes and throughts in process. 
