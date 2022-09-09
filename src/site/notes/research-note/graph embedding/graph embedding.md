@@ -13,15 +13,9 @@ Spectral embedding produces an embedding by factorizing a matrix representing a 
 - **Methods**
 	- Laplacian EigenMap
 	- Diffusion Map
-	- Modularity embedding 
-	- [[Non-backtracking embedding|Non-backtracking embedding]]
-	- [[Flow-based embedding|Flow-based embedding]]
-
-
-**Properties**
-- [[Detectability limit of spectral embedding|Detectability limit of spectral embedding]]
-- [[projects/detectability limit of graph embedding/notes/Leaky eigenvalue problem|Leaky eigenvalue problem]]
-
+	- [Modularity embedding](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.188701)
+	- [Non-backtracking embedding](https://www.pnas.org/doi/10.1073/pnas.1312486110)
+	- [[Flow-based embedding|Flow-based embedding]](https://arxiv.org/abs/1308.6494)
 
 # Neural embedding 
 
@@ -36,5 +30,37 @@ This family of neural embedding adapts a word embedding model for graph embeddin
 
 
 ## Based on convolusion
+- Graph Convolusional network 
+- Graph Attention Network 
+- GraphSAGE
+
+# Graph embedding for community detection 
+
+Graph embedding can be used to identify communities in networks. By embedding a network into a vector space, we have a geometry of nodes, in which communities are projected into clusters. 
+
+### Detectability limit 
+
+Algorithms may not be able to find communities even if communities are interally denser than externally. This is because algorithms may find some random communies that are also internally denser than externally and equally as good as the ground-truth communities. Detectability limit refers to the maximum level of "noise" above which any algorithm fails.
+
+The detectability limit depends on the sparsity of networks. If the given network is dense network, there exists an algorithm that can find communities if they are internally denser than externally (i.e., communities exist). 
+
+**dense regime**: Degree increases with respect to the number of nodes
+- Larger window size is better [[papers/literature note/@zhangConsistencyRandomwalkBased2021|@zhangConsistencyRandomwalkBased2021]] [[papers/literature note/@barotCommunityDetectionUsing2021|@barotCommunityDetectionUsing2021]]
+- Non-backtracking walks improve the detectability limit of graph embedding [[papers/literature note/@barotCommunityDetectionUsing2021|@barotCommunityDetectionUsing2021]]
+- Detectability limit for communities of different sizes [[papers/literature note/@chenUniversalPhaseTransition2015|@chenUniversalPhaseTransition2015]]
+- Detectability limit of networks with communities of different sizes and internal strucure [[papers/literature note/@chenPhaseTransitionsSpectral2014|@chenPhaseTransitionsSpectral2014]]
+
+**sparse regime**: Degree is fixed constant. 
+- [[papers/archive/Nadakuditi PRL 2012|Nadakuditi PRL 2012]]
 
 
+The detectability limit also depends on the heterogeneity in degree and community sizes. To my surprise, heterogeneity makes it easy for algorithms to identify communities.
+
+- Ill-defined communities are more detectable than well-defined communites [[papers/literature note/@radicchiParadoxCommunityDetection2013|@radicchiParadoxCommunityDetection2013]]
+- Degree heterogeneity accerates the ability to detect communities (for the modularity maximization) [[papers/literature note/@radicchiDetectabilityCommunitiesHeterogeneous2013|@radicchiDetectabilityCommunitiesHeterogeneous2013]]
+- (*dense networks*) Detectability limit of networks with communities of different sizes and internal strucure [[papers/literature note/@chenPhaseTransitionsSpectral2014|@chenPhaseTransitionsSpectral2014]]
+-  (*dense networks*) Detectability limit for communities of different sizes [[papers/literature note/@chenUniversalPhaseTransition2015|@chenUniversalPhaseTransition2015]]
+
+Most study focus on the detectability limit of spectral embedding. What about nueral embedding?
+
+-  The detectability limit of the GNN is imposed by the architecture, and the accuracy of performance in detectable regime is attributed to backpropagation [[papers/literature note/@kawamotoMeanfieldTheoryGraph2018|@kawamotoMeanfieldTheoryGraph2018]].  
