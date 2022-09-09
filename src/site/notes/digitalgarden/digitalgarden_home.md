@@ -11,6 +11,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 # Research 
 - [[research-note/graph embedding/graph embedding|graph embedding]]
+- [[research-note/AI fairness/Biases in AIs|Biases in AIs]]
 
 # Teaching 
-[[teaching/datavis/note/module3/Perception|Perception]]
+- [[teaching/datavis/note/module3/Perception|Perception]]
