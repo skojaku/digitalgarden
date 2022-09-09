@@ -3,9 +3,9 @@
 ---
 
 
-# Fairness in AIs
+# Biases in AIs
 
-Artificial intelligence systematically discriminating gainst specific populations. As the stope of AIs are growing, we need systematic solutions. How can we make AIs more fairer?
+Artificial intelligence (AI) is a reflection of ourselves. It learns from what we said, what we did, and how we did, including unwanted bias. Driven by the advent of big data and powerful neural networks, AIs are capable of learning complex patterns from big data. The data are collected from a variety of sources, including the ones with questionable societal biases against specific populations. This is a recipe of biased AIs.
 
 - **Example of AI bias**
 	- [Gender and racial bias in DALL-E](https://www.vox.com/future-perfect/23023538/ai-dalle-2-openai-bias-gpt-3-incentives)
