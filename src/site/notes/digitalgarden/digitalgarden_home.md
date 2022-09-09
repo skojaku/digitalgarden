@@ -11,3 +11,6 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 # Research 
 - [[research-note/graph embedding/graph embedding|graph embedding]]
+
+# Teaching 
+[[teaching/datavis/note/module3/Perception|Perception]]
