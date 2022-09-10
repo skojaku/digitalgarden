@@ -35,4 +35,4 @@ This family of neural embedding adapts a word embedding model for graph embeddin
 - GraphSAGE
 
 # Properties 
-- [[research-note/Community detection/Detectability limit/Detectability Limit of communities|Detectability Limit of communities]]
+- [[research-note/Community detection/Detectability limit/Detectability limit of communities|Detectability limit of communities]]
