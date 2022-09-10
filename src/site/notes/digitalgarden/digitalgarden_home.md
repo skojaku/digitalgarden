@@ -11,7 +11,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 # Research 
 - [[research-note/graph embedding/Graph embedding|Graph embedding]]
-- [[research-note/Community detection/Detectability limit/Detectability Limit of communities|Detectability Limit of communities]]
+- [[research-note/Community detection/Detectability limit/Detectability limit of communities|Detectability limit of communities]]
 - [[research-note/AI fairness/Biases in AIs|Biases in AIs]]
 
 
