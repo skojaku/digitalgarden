@@ -61,7 +61,7 @@ Our brain has a tendency to decieve smooth lines and curves. For example, in the
 ![IBM](https://www.neurosciencemarketing.com/wp-content/uploads/2017/03/IBM.jpg)
 
 ## Implication for data visualization
-Gestalt psychology suggests that we make an implicit link between visual components through shapes, colors, positions and size. We can leverage these implicit links to guide readers and organize information to present. 
+Gestalt psychology suggests that we make an implicit link between visual components through shapes, colors, positions and size. We can leverage these implicit links to help readers go through the visualization in a desired order and organize information into groups. 
 
 Let's consider a bad example and demonstrate how we can improve it. The following figure is taken from my paper on backward contact tracing ([paper](https://www.nature.com/articles/s41567-021-01187-2)). This figure consists of two sections, one for the right half, and the other for left half. For each section, there are six panels showing the statistics of the simulations. Each panel has an order vertically. 
 
