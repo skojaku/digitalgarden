@@ -16,5 +16,6 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 
 # Teaching (data visualization)
-- [[teaching/datavis/note/module3/Perception|Perception]]
+- [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
+- [[teaching/datavis/note/Design - data vis|Design - data vis]]
 
