@@ -4,8 +4,7 @@
 
 
 # Design
-Data visualization conists of many different parts. For example, a simple scatter plot consists of axis, labels, ticks, shapes and colors of points. Each component needs to team up with other components. Inappropriate arrangement of parts loses clarity and hinders the key messages. 
-
+A good visualization is organized into parts that are coherent to each other to provide righ informations with clarity.  Design is about how we organize parts to make a more unified whole. With design, we can direct reader's attention and structure rich infomration. 
 
 # Gestalt Principle 
 
@@ -62,12 +61,16 @@ Our brain has a tendency to decieve smooth lines and curves. For example, in the
 ![IBM](https://www.neurosciencemarketing.com/wp-content/uploads/2017/03/IBM.jpg)
 
 ## Implication for data visualization
-Gestalt psycology provides many interesting implications into data visualization. For instance, the law of similarity tells us that we should use similar colors and shapes for similar data. The law of proximity tells us that we should put related panels next to each other. The law of continuation suggests that we should connect points if they are sequentially ordered. The law of closure suggests that we may drop the clunky borders of each panel. Law of simplicity warns that we have a tendency to oversimplify complex image, e.g., decieving a trend as linear, even if it is a highly non-linear non-monotonical trend.
-![line data points](https://www.excelcharts.com/wp-content/uploads/2011/11/line-data-points2.png)
+Gestalt psychology suggests that we make an implicit link between visual components through shapes, colors, positions and size. We can leverage these implicit links to guide readers and organize information to present. 
 
+Let's consider a bad example and demonstrate how we can improve it. The following figure is taken from my paper on backward contact tracing ([paper](https://www.nature.com/articles/s41567-021-01187-2)). This figure consists of two sections, one for the right half, and the other for left half. For each section, there are six panels showing the statistics of the simulations. Each panel has an order vertically. 
+
+We can make these panels more coherent by making some implicit links with the Gestalt principles. For example, by widening the gap between two sections (e.g., columns with d and that with g), we can indicate the section structure. Or we can use the same color for all panels in the same section. To guide readers to flow vertically, we can reduce the vertical gap. 
+
+![backward constact tracing](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41567-021-01187-2/MediaObjects/41567_2021_1187_Fig3_HTML.png?as=webp)
 ![Gestalt](https://cdn-images-1.medium.com/max/1024/1*C9XapvVFAhF4DHXXf2TUuA.jpeg)
-## Why we group things togeter?
 
+## Why we group things togeter?
 Our perception of grouping is deeply attributed to how our brain processes information. When an information comes into our brain, we pre-process the information before consciously process it. This is called ***pre-attentative process***. It is a process that takes place subconciously before we pay attention consciously. Pre-attentive process filters out important information, which is then futher processed by more attentative process. Pre-attentative process is useful in data visualization to effectively direct our attention to the information we want to present.
 
 ![pre-attentative process](https://infovis-wiki.net/w/images/6/6a/Preattentive_4.JPG)
