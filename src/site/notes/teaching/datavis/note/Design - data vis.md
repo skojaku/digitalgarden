@@ -4,17 +4,18 @@
 
 
 # Design
-Data visualization conists of many different parts. For example, a simple scatter plot consists of axis, labels, ticks, shapes and colors of points. Each component is indispensable and needs to be carefully designed to team up with other components. Inappropriate arrangement of parts loses clarity and hinders the key messages. 
+Data visualization conists of many different parts. For example, a simple scatter plot consists of axis, labels, ticks, shapes and colors of points. Each component needs to team up with other components. Inappropriate arrangement of parts loses clarity and hinders the key messages. 
+
 
 # Gestalt Principle 
 
-We make sense of complex worlds by grouping different elements. 
-
 "*The whole is something else than the sum of its parts.*" 
 
-as encapsulated by a German Gestalt Psycologist, Kurt Koffka. On the side note, this phrase is a translation from German, and there was another incorrect translation that goes like "The whole is *greater* than the sum of its parts." But the original argument of Kurt is that the "whole" is a different element added to its parts, not greater than its parts. 
+as encapsulated by a German Gestalt Psycologist, Kurt Koffka. We make sense of complex worlds by grouping different elements. We perceive the whole as a unified whole, not as a sum of its parts. 
 
-There are three fundamental principles of how make group things together:
+On the side note, this phrase is a translation from German, and there was another incorrect translation that goes like "The whole is *greater* than the sum of its parts." But the original argument of Kurt is that the "whole" is a different element added to its parts, not greater than its parts.  
+
+There are three fundamental principles of how we group things together:
 
 **#1: Objects are perceived in the simplest form.**
 For example, when we see the Olympic logo, we perceive it as five rings interlocking each other, instead of different (non-ring) objects that are separated to each other. 
@@ -62,8 +63,6 @@ Our brain has a tendency to decieve smooth lines and curves. For example, in the
 
 ## Implication for data visualization
 Gestalt psycology provides many interesting implications into data visualization. For instance, the law of similarity tells us that we should use similar colors and shapes for similar data. The law of proximity tells us that we should put related panels next to each other. The law of continuation suggests that we should connect points if they are sequentially ordered. The law of closure suggests that we may drop the clunky borders of each panel. Law of simplicity warns that we have a tendency to oversimplify complex image, e.g., decieving a trend as linear, even if it is a highly non-linear non-monotonical trend.
-
-
 ![line data points](https://www.excelcharts.com/wp-content/uploads/2011/11/line-data-points2.png)
 
 ![Gestalt](https://cdn-images-1.medium.com/max/1024/1*C9XapvVFAhF4DHXXf2TUuA.jpeg)
