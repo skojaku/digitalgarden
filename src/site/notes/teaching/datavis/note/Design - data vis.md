@@ -42,16 +42,16 @@ We tend to group things that are similar. For example, Slack logo consists of ma
 ![slack¥|200](https://orangecounty.aiga.org/wp-content/uploads/2021/05/slack-logo.png)   ![slack¥|200](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_2013_%28flat_version%29.svg/1200px-NBC_2013_%28flat_version%29.svg.png)
 
 **2. Law of closure**
-When an object is incomplete, we tend to fill in the missing parts. For example, we may perceive a triangle in the following figure even if the triangle doesn't exist . It's because we fill in the lines to make up a triangle. It's also related to the first principle, i.e., instead of understanding it as three kiwi with some part missings that face inward, it's simpler if we understand it as three kiwi with a triangle on top. 
+When an object is incomplete, we tend to fill in the missing parts. For example, we may perceive a triangle in the following figure even if the triangle doesn't exist . It's because we fill in the lines to make up a triangle. It's also related to the first principle. 
 
 ![gestalt](https://miro.medium.com/max/1400/1*i00fI96rVsxN4Tw-fHaHcQ.png)
 
 **3. Law of proximity**
 We tend to group things that are close to each other. For example, we can read "UX" in the figure because we tend to group points that are next to each other as a group.
 
-![UX](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTB4CvVVrZslw5k0VedxytCqjwC7mFa2n0QQ&usqp=CAU)
+![UX|500](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTB4CvVVrZslw5k0VedxytCqjwC7mFa2n0QQ&usqp=CAU)
 **4. Law of simplicity**
-We tend to group things in the simplest form. For example, we perceive the log of Indiana University as "I" and "U" intersecting each other, even if there are many but more complex decomposition sof the logo.
+We tend to group things in the simplest form. For example, we perceive the logo of Indiana University as "I" and "U" intersecting each other, even if there are many but more complex decomposition sof the logo.
 
 ![Indiana University¥|400](https://i.pinimg.com/736x/e6/0a/07/e60a07442ff285a78a3b95c018967d9b.jpg)
 
