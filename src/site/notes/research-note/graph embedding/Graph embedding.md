@@ -7,7 +7,6 @@ Graph embedding maps a network into a vector space, which let us explore the rel
 
 
 # Spectral embedding 
-
 Spectral embedding produces an embedding by factorizing a matrix representing a network. The matrix can be an adjacency matrix, laplacian matrix, random walk transition matrix, and etc. Spectral embedding is grounded on linear algebra, and it's properties are well explored using tools from random matrix theory. In many ways, we know a lot about the capacity of spectral embedding. 
 
 - **Methods**
@@ -17,8 +16,8 @@ Spectral embedding produces an embedding by factorizing a matrix representing a 
 	- [Non-backtracking embedding](https://www.pnas.org/doi/10.1073/pnas.1312486110)
 	- [[Flow-based embedding|Flow-based embedding]](https://arxiv.org/abs/1308.6494)
 
-# Neural embedding 
 
+# Neural embedding 
 Neural embedding emerges as a powerful alternative to spectral embedding. It is based on neural networks that encode a network into a low dimensional hidden layer. There are two kinds of neural networks, one based on random walks and the other based on convolusion. 
 
 ## Based on random walks 
