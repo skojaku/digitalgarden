@@ -19,3 +19,6 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
 - [[teaching/datavis/note/Design - data vis|Design - data vis]]
 
+# Little tips make a big difference
+- [[tips/Computer & Programming/Computer & Programming|Computer & Programming]]
+
