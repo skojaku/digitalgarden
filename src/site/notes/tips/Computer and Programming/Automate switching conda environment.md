@@ -6,6 +6,12 @@
 # Automate switching conda environment
 updated: 2022-09-16
 
+If you work on multiple projects and have different virtual environment for each, you may spent some non-negligible amount of time for just *switching* conda environment. Here is a tip to automate this process. 
+
+## How does it work?
+Suppose that you have a directory for each project. In each directory, you have an `environment.yml` file that specifies the name of the virtual environment. When you move into a directory, a script will check the `environment.yml` file and switch the environment for you. 
+
+## Set up
 Put the following file into ~./script/ and then add
 ```
 source <home>/.script/conda_auto_env.py
