@@ -35,3 +35,4 @@ node2vec has several parameters to define random walks in networks together with
 - node2vec can be imterpreted as an implicit matrix factorization and be trained using spectral methods [paper](https://dl.acm.org/doi/abs/10.1145/3159652.3159706)
 - node2vec is equivalent to [[LINE|LINE]] if `context` or (`window_length`) is one. [paper](https://dl.acm.org/doi/abs/10.1145/3159652.3159706)
 - We can encode different structures (e.g., community and core-periphery structure) by changing `p` and `q`. [paper](https://snap.stanford.edu/node2vec/)
+- Connectedness is important. Isolated nodes can drastically change embedding. Always remove isolated nodes before feeding into it. 
