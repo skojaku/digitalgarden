@@ -13,12 +13,12 @@ Suppose that you have a directory for each project. In each directory, you have 
 
 ## Set up
 Put the following file into ~./script/ and then add
-```
+```bash
 source <home>/.script/conda_auto_env.py
 ```
 
 bash shell:
-```
+```bash
 #!/bin/bash
 #
 # auto-env automatically activates a conda environment when
@@ -57,7 +57,7 @@ export PROMPT_COMMAND=conda_auto_env
 ```
 
 zsh:
-```
+```zsh
 #!/bin/zsh
 
 # conda-auto-env automatically activates a conda environment when
