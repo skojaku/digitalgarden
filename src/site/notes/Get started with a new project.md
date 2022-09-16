@@ -11,4 +11,4 @@ updated: 2022-09-16
 1. [Clone "project template" repo and follow the instruction](https://github.com/skojaku/project-template)
 2. Create a shared folder in DropBox or Google Drive
 3. Set up the home directory in a computer 
-4. Set up the rclone (See [[tips/Computer & Programming/Automate file sharing through cloud|Automate file sharing through cloud]])
+4. Set up the rclone (See [[tips/Computer and Programming/Automate file sharing through cloud|Automate file sharing through cloud]])
