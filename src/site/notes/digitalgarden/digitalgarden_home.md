@@ -20,5 +20,5 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[teaching/datavis/note/Design - data vis|Design - data vis]]
 
 # A little tip makes a big difference
-- [[tips/Computer & Programming/Computer and Programming|Computer and Programming]]
+- [[tips/Computer and Programming/Computer and Programming|Computer and Programming]]
 - [[tips/Living/Living|Living]]
