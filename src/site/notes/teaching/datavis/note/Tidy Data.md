@@ -6,11 +6,11 @@
 # Tidy Data
 updated: 2022-09-19
 
-This is my note on Wickham, H. . (2014). Tidy Data. _Journal of Statistical Software_, _59_(10), 1–23. https://doi.org/10.18637/jss.v059.i10
+Wickham, H. . (2014). Tidy Data. _Journal of Statistical Software_, _59_(10), 1–23. https://doi.org/10.18637/jss.v059.i10
 [paper](https://www.jstatsoft.org/article/view/v059i10)
 
 ## Why should we tidy data?
-Many data science projects spent mostly on clearning data, e.g., homogenizing data types, removing outliers, imputing missing values, and storing them into a handy and convinient database. The clearning is not once-in-a-project process but must be repeated over the couse of analysis. One study shows that 80% of data analysis is devoted for data clearning and preparations [paper](https://www.amazon.com/Exploratory-Data-Mining-Cleaning/dp/0471268518). Having a tidy dataset lets us focus on more interesting problem, rather than focusing on uninteresting work of data clearning. 
+Many data science projects spent most time on clearning data, e.g., homogenizing data types, removing outliers, imputing missing values, and storing them into a handy and convinient database. The clearning is not once-in-a-project process but must be repeated over the couse of analysis. One study shows that 80% of data analysis is devoted for data clearning and preparations [paper](https://www.amazon.com/Exploratory-Data-Mining-Cleaning/dp/0471268518). Having a tidy dataset lets us focus on more interesting problem, rather than focusing on uninteresting work of data clearning. 
 
 ## What is Tidy data?
 Tidy data is a set of guidlines on how to structure data and its semantics.  In tidy data, a dataset is a collection of values. Every value belongs to a variable and an observation. A variable contains all values of the same attribute *across* different observational unit. An observation contains all variables of different attributes for the same observational unit. 
@@ -51,7 +51,9 @@ Tidy data compose the dataset based on the following three principles:
 - Every cell is a value 
 
 ## Why tidy data?
-The data analysis is an exploratory process. The goal of the analysis often changes through the course of the project. Accordingly, new variables may be added, or a different level of observational units become of an interest. Thus a good dataset needs to be flexible and convinient for different inequaries. 
+The data analysis is an exploratory process. The goal of the analysis often changes through the course of the project. New variables may be added, or a different level of observational units may become an interest. Thus a good dataset needs to be flexible, efficient, and convinient for different lines of inequaries. 
 
-In tidy data, every dataset is organized in a standard fasion, which helps people to understand the organization of the data. The data structure is robust against the addition of variables. No structural changes are needed. It makes also easy to access all values tied to an observation, or some of its attributes. 
+In tidy data, every dataset is organized in a standard fasion, which helps people to understand the organization of the data. The data structure is robust against the addition of variables. No structural changes are needed. It is also efficient, e.g., one can extract a set of data samples in a particular category by filtering by the categorical variable.
+
+
 
