@@ -19,6 +19,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
 - [[teaching/datavis/note/Design - data vis|Design - data vis]]
 - [[teaching/datavis/note/Tidy Data|Tidy Data]]
+- [[teaching/datavis/note/1D data|1D data]]
 
 
 # A little tip makes a big difference
