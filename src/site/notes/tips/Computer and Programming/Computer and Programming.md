@@ -11,7 +11,7 @@ updated: 2022-09-16
 - [[tips/Computer and Programming/Automate switching conda environment|Automate switching conda environment]]
 - [[tips/Computer and Programming/Automate file sharing through cloud|Automate file sharing through cloud]]
 - [[Keyboard maestro|Keyboard maestro]]
-- [[tips/Computer and Programming/Computer and Programming# Automating workflow by Snakemake|# Automating workflow by Snakemake]]
+- [[tips/Computer and Programming/Automating workflow by Snakemake|Automating workflow by Snakemake]]
 
 
 ## Set up
