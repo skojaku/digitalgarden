@@ -13,7 +13,10 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[research-note/graph embedding/Graph embedding|Graph embedding]]
 - [[research-note/Community detection/Detectability limit/Detectability limit of communities|Detectability limit of communities]]
 - [[research-note/AI fairness/Biases in AIs|Biases in AIs]]
-
+- [[projects/Name disambiguation/Name disambiguation|Name disambiguation]]
+- [[Mapping scientific foraging|Mapping scientific foraging]]
+- [[Citation cartels|Citation cartels]]
+- [[Core-periphery structure|Core-periphery structure]]
 
 # Teaching (data visualization)
 - [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
