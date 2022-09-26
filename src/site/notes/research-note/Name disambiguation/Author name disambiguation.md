@@ -6,7 +6,6 @@
 # Author name disambiguation
 updated: 2022-09-21
 
-
 Despite the importance of credit allocations, it is surprisingly difficult to answer *who wrote which paper.* We know the name of authors. But an author can have multiple names, and different persons can have the same name. Names are not sufficient to locate the authors. There are efforts to create digital author IDs such as ORCHID. Google Scholar automatically associates papers with authors, and everyone edits own publication list. ArXiv recently lets authors to claim authorships. Yet, these author IDs are far from a universal adoption because the author IDs are limited to the users of a paricular system, and they cannot handle old papers. We still lack a universal system that can link papers and authors across fields and time. 
 
 # Trait types and algorithms
@@ -25,20 +24,22 @@ The first initial method tends to overmerge and the all initial method tends to 
 
 - [Accuracy of simple, initials-based methods for author name disambiguation - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1751157713000539?via%3Dihub)
 
-### Based on citations 
+## Based on citations 
 Citations reflect topics and author identity. By topics, a paper cites another paper because the citing paper gounds itself on the cited paper. If two papers cite the same papers, these citing papers are likely to be related in topics. 
 
 By author identity, I mean by two sense. First, an author tends to cite own papers. So if one paper cites another paper, and the author of the two papers have the same name, the authors are likely to be the same person. Second, authors are on average conservative and rarely change subjects. Two authors are likely to be the same person if they wrote papers on the same subject. 
 
 - [Exploiting citation networks for large-scale author name disambiguation | EPJ Data Science | Full Text](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-014-0011-3)
 
-### Based on coauthorships. 
+## Based on coauthorships. 
 Coauthorships are strong indicator of authorship. Scientists are embedded in social networks. In most sciences, scientists tend to work on a small number of other scientists, forming a small team. It is rare that two scientists with the same name happen to be in the same team. 
 
 - [On Graph-Based Name Disambiguation | Journal of Data and Information Quality](https://dl.acm.org/doi/10.1145/1891879.1891883)
 
-### Other featuers
+## Based on other featuers
 Affiliations, publication venues, and paper titles can be a strong indicator of author identity, although surprisingly few algorithms take these traits into account, possibly because it requires *disambiguation of traits*. For instance, [there are so many universities with similar names](https://www.collegeconfidential.com/articles/help-many-u-s-college-names-sound-alike/), which are hard to distinguished without external knowledge. 
+
+
 
 # Rule-based vs Machine learning 
 
