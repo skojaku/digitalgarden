@@ -19,7 +19,8 @@ updated: 2022-09-16
 - [[Get started with a new project|Get started with a new project]]
 - [[Get start with vscode|Get start with vscode]]
 
-## Python
+## Python  
+- [[tips/Computer and Programming/Python quiz|Python quiz]]
 - [[Superfast network analysis with scipy|Superfast network analysis with scipy]]
 
 
