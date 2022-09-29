@@ -44,12 +44,7 @@ No single trait is sufficient to identify author identities. Still, we can creat
 ## Rule based 
 Rule-based approach determines a weight of a trait based on a set of predefined rules. Each rule consists of a condition and a score. For each pair of papers, one examine whether the two papers meet the condition (e.g., number of coauthors is greater than two), and if it does, adds up the score. The sum of the scores is the final prediction score, with a higher value indicating a higher likelihood that two papers are written by the same author. 
 
-A virtue of the rule-based approach is its explainability, interpretability, and transparency. An issue is that making a good set of rules requires knowledge about data domains. For instance, names are useful feature for Western names but not as equally as useful for Asian names (since there are so many common Asian names). It is not clear why one rules has a higher score than the other, and often these rules are compiled based on intutitions with many try-and-errors.  
-
-An explainable and transparent 
-We can ask experts to decide the weights of traits. 
-
-One can assign weights baed on 
+A virtue of the rule-based approach is its explainability, interpretability, and transparency. An issue is that making a good set of rules hinges on tacit knowledge about data domains. It is not clear why one rules has a higher score than the other, and often these rules are compiled based on intutitions and iterative experiments.  
 
 ## Machine Learning & Statistical mdoels
 
