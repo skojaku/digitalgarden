@@ -84,6 +84,34 @@ This way, I can retrieve the variables from `snakemake` only when `snakemake` is
 
 ## Wildcards
 
+wildcards enabale the same rule to be applied to different files in parallel. For instance, suppose that you want to run a simulation $L=10$ times with different random seed. You have $L=10$ csv files to save the simulation results. With wildcards, this can be defined in one line code: 
+```python
+SIM_RESULT = "results/run_id~{run_id}.csv"
+```
+Here `{run_id}` is the wildcard and does not need to be specified in priori. Once the simulations are finished, you may want to plot the results in some figures and save it into pdfs. You can specified the pdf filenames using wildcards:
+```python
+FIG_SIM_RESULT = "figs/run_id~{run_id}.pdf"
+```
+The wildcard `{run_id}` creates an implicit link between `SIM_RESULT` and `FIG_SIM_RESULT` through a rule:
+```python 
+rule plot:
+	input:
+		SIM_RESULT
+	output:
+		FIG_SIM_RESULT
+	script:
+		"plot.py"
+```
+Snakemake will figure out that `FIG_SIM_RESULT` depends on `SIM_RESULT` with the same wildcards (e.g., `run_id`) and create a dependency graph of files. Finally, we specify  `rule_ids`
+
+```python
+rule all:
+	input:
+		expand(FIG_SIM_RESULT, rule_id = list(range(5)))
+```
+This `all` rule specifies the final products, figures, with `run_id` being integers from 0 to 4. A beauty is that snakemake will figure out all intermediate files by backtracking from the final products, create a dependency graph, and run a series of jobs. Snakemake will run rules in parallel if their input files are independent. 
+
+
 ## Name files using parameter space 
 
 ## Modulize workflow
