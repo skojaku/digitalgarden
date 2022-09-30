@@ -23,7 +23,7 @@ Snakemake is a launguage to define workflow. Once you set up a workflow with Sna
 In Snakemake, a workflow consists of *rules*. Each rule takes a file and generates another file. A rule can take an output of another rule as input, which creates a link between rules. Snakamake creates a directed network of rules starting from the first input to the final output, which is called a *computation graph*. Then, Snakemake finds an optimal schedule to execute each rule. Snakemake does not execute a rule if it's output already exists. This is super useful because we often change some part of the workflow and want to redo only the calculations that are affected by the change.
 
 ## How to set up
-See [How to set up](https://snakemake.readthedocs.io/en/stable/tutorial/setup.html). I think the easiest way to install is to use conda:
+See [How to set up](https://snakemake.readthedocs.io/en/stable/tutorial/setup.html). An easiest way to install is to use conda:
 ```bash
 conda install -c conda-forge -c bioconda snakemake
 ```
@@ -33,6 +33,58 @@ See the [Tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/setup.htm
 
 
 # Tips 
-Snakemake is unique and actively developing. Everytime I visit the website, there are always new features. In every project, I learn new features :smile: and write a more conscise and clearn workflow :fire: Here is an imcomplete list of my curation of tips. 
 
+## Use *script* directive
+
+[Snakefiles and Rules — Snakemake 7.14.2 documentation](https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html#external-scripts)
+
+`shell` and `script` are the directives that define the process of transforming input files to output files. `shell` specifies the shell command, e.g., things you type in your command line. `script` specifies a script such as python script. For instance, the following two rules produce the same output: 
+
+```python 
+rule shell_version: 
+	input: 
+		input_file = UNSORTED_FILE
+	output:
+		output_file = SORTED_FILE
+	run:
+		shell("python main.py {input.input_file} {output.output_file}")
+
+rule script_version: 
+	input: 
+		input_file = UNSORTED_FILE
+	output:
+		output_file = SORTED_FILE
+	script:
+		"main.py"
+```
+
+The difference is how the variables are passed to the script. With `shell`, all variables should be passed as command-line arguments. With `script`, the variables are accessible from script. For instance, with Python, all variables are accessible via `snakemake.<directive name>` object, e.g., 
+```python 
+input_file = snakemake.input["input_file"]
+output_file = snakemake.output["output_file"]
+```
+
+I favor `script` because it makes workflow more readable and it easier to pass many variables. `shell` can be very verbose, especially when there are many variables (`input`, `output`, `params`, `resources`, etc). Furthermore, `shell` creates an implicit dependency. For instance, the arguments are order sensitive, meaning the order of arguments should be matched to that assumed in the script. This can go diseaster in many ways, e.g., misspecifying parameter values and overwriding input files.
+
+A drawback of `script` is that it makes the script non-standalone; you can run the script only via snakemake because otherwise `snakemake` object is not created. This is not a good feature when testing the script.  One way to make it standalone is to check `snakemake` is defined, e.g., 
+```python
+import sys
+
+if "snakemake" in sys.modules:
+    vector_data_file = snakemake.input["vector_data_file"]
+    clustering_model_file = snakemake.input["clustering_model_file"]
+    output_file = snakemake.output["output_file"]
+else:
+    vector_data_file = ""
+    citation_embedding_model_file = "models/clustering_model"
+    output_file = "models/clustering_model"
+```
+This way, I can retrieve the variables from `snakemake` only when `snakemake` is created. Otherwise, I set the variables *directly* in the script, so that I can run the script without `snakemake`. 
+
+
+## Wildcards
+
+## Name files using parameter space 
+
+## Modulize workflow
 
