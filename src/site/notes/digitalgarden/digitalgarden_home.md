@@ -27,4 +27,4 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 # A little tip makes a big difference
 - [[tips/Computer and Programming/Computer and Programming|Computer and Programming]]
-- [[tips/Living/Living|Living]]
+- [[tips/Computer and Programming/Living/Living|Living]]
