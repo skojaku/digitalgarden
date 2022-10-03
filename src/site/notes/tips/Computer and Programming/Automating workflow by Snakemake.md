@@ -4,7 +4,7 @@
 
 
 # Automating workflow by Snakemake
-updated: 2022-09-21
+updated: 2022-09-30
 
 One day at a dinner at a conference, a person next to me saying 
 
@@ -109,7 +109,7 @@ rule all:
 	input:
 		expand(FIG_SIM_RESULT, rule_id = list(range(5)))
 ```
-This `all` rule specifies the final products, figures, with `run_id` being integers from 0 to 4. A beauty is that snakemake will figure out all intermediate files by backtracking from the final products, create a dependency graph, and run a series of jobs. Snakemake will run rules in parallel if their input files are independent. 
+This `all` rule specifies the final products, figures, with `run_id` being integers from 0 to 4. A beauty is that snakemake will figure out all intermediate files by backtracking from the final products, creating a dependency graph, and running a series of jobs. Snakemake will run rules in parallel if their input files are independent. 
 
 
 ## Name files using parameter space 
