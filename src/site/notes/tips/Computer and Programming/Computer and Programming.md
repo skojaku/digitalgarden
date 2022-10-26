@@ -20,7 +20,9 @@ updated: 2022-09-16
 - [[Get start with vscode|Get start with vscode]]
 
 ## Python  
-- [[tips/Computer and Programming/Python quiz|Python quiz]]
+- [[tips/Computer and Programming/Python tips|Python tips]]
+- [[tips/Computer and Programming/Faiss|Faiss]]
+- [[tips/Computer and Programming/UMAP|UMAP]]
 - [[Superfast network analysis with scipy|Superfast network analysis with scipy]]
 
 
