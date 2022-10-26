@@ -17,6 +17,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Mapping scientific foraging|Mapping scientific foraging]]
 - [[Citation cartels|Citation cartels]]
 - [[Core-periphery structure|Core-periphery structure]]
+- [[research-note/Machine learning/Rethinking training algorithms for ML|Rethinking training algorithms for ML]]
 
 # Teaching (data visualization)
 - [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
@@ -27,4 +28,4 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 # A little tip makes a big difference
 - [[tips/Computer and Programming/Computer and Programming|Computer and Programming]]
-- [[tips/Computer and Programming/Living/Living|Living]]
+- [[tips/Living/Living|Living]]
