@@ -22,8 +22,10 @@ Snakemake is a launguage to define workflow. Once you set up a workflow with Sna
 
 In Snakemake, a workflow consists of *rules*. Each rule takes a file and generates another file. A rule can take an output of another rule as input, which creates a link between rules. Snakamake creates a directed network of rules starting from the first input to the final output, which is called a *computation graph*. Then, Snakemake finds an optimal schedule to execute each rule. Snakemake does not execute a rule if it's output already exists. This is super useful because we often change some part of the workflow and want to redo only the calculations that are affected by the change.
 
+If you are interested in the concept behind snakemake, check out [the paper](https://f1000research.com/articles/10-33/v2)
+
 ## How to set up
-See [How to set up](https://snakemake.readthedocs.io/en/stable/tutorial/setup.html). An easiest way to install is to use conda:
+See [How to set up](https://snakemake.readthedocs.io/en/stable/tutorial/setup.html). An easy way to install is to use conda:
 ```bash
 conda install -c conda-forge -c bioconda snakemake
 ```
