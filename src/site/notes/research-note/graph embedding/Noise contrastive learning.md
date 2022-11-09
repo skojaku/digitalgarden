@@ -19,6 +19,6 @@ updated: 2022-11-09
 
 
 ## Proof
-- [https://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf](https://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf)
+[Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics](https://www.jmlr.org/papers/v13/gutmann12a.html)
 
 
