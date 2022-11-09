@@ -31,3 +31,9 @@ Overparameterized models + SGD generates a pecuilar phenomena called *double des
 
 ## Relation to spectral methods
 [Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss](https://arxiv.org/abs/2106.04156)
+
+
+## Contrastive learning
+- [[research-note/graph embedding/Noise contrastive learning|Noise contrastive learning]]
+
+
