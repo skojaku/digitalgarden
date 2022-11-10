@@ -18,6 +18,8 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Citation cartels|Citation cartels]]
 - [[Core-periphery structure|Core-periphery structure]]
 - [[research-note/Machine learning/Rethinking training algorithms for ML|Rethinking training algorithms for ML]]
+- [[research-note/Network Science/Network Science|Network Science]]
+
 
 # Teaching (data visualization)
 - [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
