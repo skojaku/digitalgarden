@@ -27,8 +27,11 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[teaching/datavis/note/Tidy Data|Tidy Data]]
 - [[teaching/datavis/note/1D data|1D data]]
 
+# Code
+- [[Python code|Python code]]
 
-# A little tip makes a big difference
+
+#  Tips
 - [[tips/Computer and Programming/Computer and Programming|Computer and Programming]]
 - [[tips/Living/Living|Living]]
 - [[tips/Career/Surviving in academia|Surviving in academia]]
