@@ -28,7 +28,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[teaching/datavis/note/1D data|1D data]]
 
 # Code
-- [[Python code|Python code]]
+- [[tips/coding/Code|Code]]
 
 
 #  Tips
