@@ -15,8 +15,11 @@ updated: 2022-11-11
 - [Statistical test for community detection](https://github.com/skojaku/qstest)
 - [Network construction algorithm for correlation data](https://github.com/skojaku/scola)
 
-## Embedding  & ML
+## Embedding
 - [Practical guide to sentence embedding](https://github.com/skojaku/Practical-Guide-to-Sentence-Transformers)
 - [node2vec](https://github.com/skojaku/node2vec)
 - [residual2vec](https://github.com/skojaku/residual2vec)
+ 
+## Machine Learning
 - [Multilabel classification algorithms based on k-nearest neighbor algorithms](https://github.com/skojaku/multilabel_knn)
+- [Birch algorithm based on cosine similarity](https://gist.github.com/skojaku/2a52178cbf9dade53c69c54208a1b1f0)
