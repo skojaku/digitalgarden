@@ -10,7 +10,7 @@ The expactation-maximization algorithm is a technique to fit a variety of mixtur
 
 ## Problem 
 
-Suppose that you a set of data samples, each of which is sampled from one of the $K$ probability distributions. You know the parameteric function of the distributions. However, you don't know the parameter values as well as which distribution each data sample is generated from. You want to identify which distribution each sample is generated from and their parameters.
+Suppose that you have a set of data samples, each of which is sampled from one of the $K$ probability distributions. You know the parameteric function of the distributions. However, you don't know the parameter values as well as which distribution each data sample is generated from. You want to identify which distribution each sample is generated from and their parameters.
 
 ## Overview of the EM algorithm 
 
