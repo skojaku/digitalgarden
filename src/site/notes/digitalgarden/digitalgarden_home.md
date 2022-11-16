@@ -22,7 +22,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 ## Research Note:
 - [[research-note/Network Science/Network Science|Network Science]]
-- [[Machine Learning|Machine Learning]]
+- [[research-note/Machine learning/Machine Learning|Machine Learning]]
 
 # Teaching (data visualization)
 - [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
