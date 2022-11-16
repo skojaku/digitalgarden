@@ -21,6 +21,11 @@ Because every node has no citation when it appears, the probability of the first
 - [Phys. Rev. Lett. 85, 4633 (2000) - Structure of Growing Networks with Preferential Linking](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.4633)
 - [The first-mover advantage in scientific publication - IOPscience](https://iopscience.iop.org/article/10.1209/0295-5075/86/68001)
 
+## Recency
+Recency is a natural consequence of the exponential growth. It appers even for a pure preferential attachment model.
+
+[A model showing the increase in time of the average and median reference age and the decrease in time of the Price Index | SpringerLink](https://link.springer.com/article/10.1007/s11192-009-0057-3)
+
 
 # Models & Applications
 - [Price's model - Wikipedia](https://en.wikipedia.org/wiki/Price%27s_model) Probably a first model of the growth of citation networks. 
