@@ -9,7 +9,9 @@
 
 This is my [Digital garden](https://maggieappleton.com/garden-history), where I share my notes and throughts in process. 
 
-# Research 
+# Research
+
+## My research 
 - [[research-note/graph embedding/Graph embedding|Graph embedding]]
 - [[research-note/Community detection/Detectability limit/Detectability limit of communities|Detectability limit of communities]]
 - [[research-note/AI fairness/Biases in AIs|Biases in AIs]]
@@ -17,9 +19,10 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Mapping scientific foraging|Mapping scientific foraging]]
 - [[Citation cartels|Citation cartels]]
 - [[Core-periphery structure|Core-periphery structure]]
-- [[research-note/Machine learning/Rethinking training algorithms for ML|Rethinking training algorithms for ML]]
-- [[research-note/Network Science/Network Science|Network Science]]
 
+## Research Note:
+- [[research-note/Network Science/Network Science|Network Science]]
+- [[Machine Learning|Machine Learning]]
 
 # Teaching (data visualization)
 - [[teaching/datavis/note/Perception - data vis|Perception - data vis]]
