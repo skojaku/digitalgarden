@@ -17,7 +17,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[research-note/AI fairness/Biases in AIs|Biases in AIs]]
 - [[research-note/Name disambiguation/Author name disambiguation|Author name disambiguation]]
 - [[Mapping scientific foraging|Mapping scientific foraging]]
-- [[Citation cartels|Citation cartels]]
+- [[research-note/archive/Metric fixation in Science|Metric fixation in Science]]
 - [[Core-periphery structure|Core-periphery structure]]
 
 ## Research Note:
