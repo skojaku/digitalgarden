@@ -15,7 +15,6 @@
 - Author level citation cartels
 	-  [Tansu Citation cartel](https://selfcitation.wordpress.com/2012/10/09/tansu-citation-cartel/)
 - EI Naschie was an editor-in-chief of journal, "Chaos, Solutions, and Fractals", where he published more than 300 papers in his journal. After many requests, Elsavior announcted that he was resigned from the chief-in-editor. Ji-Huan He is a supporter of him [source from Science Translational Medichine](https://blogs.sciencemag.org/pipeline/archives/2008/12/22/publish_your_work_the_easy_way).
-
 - Ravi Agarwal
 	- https://www.ams.org/journals/notices/201902/rnoti-p227.pdf
 
@@ -26,6 +25,8 @@
 - Author-level citaiton stacking [source](https://www.biorxiv.org/content/10.1101/2020.08.12.248369v1)
 - [CIDRE](https://www.nature.com/articles/s41598-021-93572-3)
 
+## Readings 
+- [Pressure to publish is ‘fuelling illegal practices in palaeontology’](https://www.nature.com/articles/d41586-022-03745-x)
 
 
 ## Images
