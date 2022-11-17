@@ -14,12 +14,6 @@ Random walks are instrumental to network analysis. It provides theoretical found
 
 A simplest form is random walks in undirected and unweighted networks. In this process, an agent called a walker is at a node $i$. The walker randomly chooses the next node $j$ from the neighbors of node $i$. This process is a *markov process* of the first order, i.e., the walker determines the next node based on the current node and has no memory of nodes  previously visited. 
 
-A key property of random walks is the existence of *stationary distribution*. When a walker makes many steps, the distribution of the walker approaches to a stationary distribution, regardless of where the walker starts from. This property is induced by ergodicity, i.e., the walker can reach any node in the network and aperiodic, which always holds true for undirected networks but may not for directed networks. 
-
-Several key features stemming from a stationary distribution are:
-- A walker is more likely to visit hub nodes than peripheral nodes with a small degree, because the stationary distribution at a node is proportional to its degree. 
-- While a random walker in undirected networks converges to the stationary distribution, the speed of the convergence depends on the structure of the network. Mixing time is defined as the time needed to converge to the stationary distribution, upto a predefined error $\epsilon$. The mixing time has no analytical form but analytical approximation does exist. Namely, the mixing time is tightly bounded by the second smallest eigenvalue of the laplacian matrix. 
-
 # Variants 
 
 ### Random walks with teleportation
@@ -30,6 +24,11 @@ Several key features stemming from a stationary distribution are:
 - [[1501.06087] Non-backtracking spectrum of random graphs: community detection and non-regular Ramanujan graphs](https://arxiv.org/abs/1501.06087)
 - [Spectral redemption in clustering sparse networks | PNAS](https://www.pnas.org/doi/10.1073/pnas.1312486110)
 - [https://arxiv.org/pdf/1308.6494.pdf](https://arxiv.org/pdf/1308.6494.pdf)
+
+### Degree-avoiding 
+- [Comparison of mean hitting times for a degree-biased random walk - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166218X14000572)
+- [Phys. Rev. E 105, 044318 (2022) - Optimal exploration of random walks with local bias on networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.044318) (maybe not)
+- [Phys. Rev. E 89, 012803 (2014) - Characteristic times of biased random walks on complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.012803)
 
 ### Self-avoiding walks 
 - [Phys. Rev. B 27, 1635 (1983) - Asymptotic behavior of the "true" self-avoiding walk](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.27.1635)
@@ -46,6 +45,8 @@ Several key features stemming from a stationary distribution are:
 ### Fairness-aware walks 
 - [Fairwalk: Towards Fair Graph Embedding | IJCAI](https://www.ijcai.org/proceedings/2019/456)
 - [[2105.02725] CrossWalk: Fairness-enhanced Node Representation Learning](https://arxiv.org/abs/2105.02725)
+
+
 
 # Review 
 - [Random walks and diffusion on networks - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0370157317302946?via%3Dihub)
