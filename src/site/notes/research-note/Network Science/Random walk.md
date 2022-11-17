@@ -38,14 +38,13 @@ A simplest form is random walks in undirected and unweighted networks. In this p
 - [Knowledge acquisition: A Complex networks approach - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0020025517309295?via%3Dihub)
 - [[2211.06657] Identifying the perceived local properties of networks reconstructed from biased random walks](https://arxiv.org/abs/2211.06657)
 
-### Node2Vec Walks
+### Node2Vec walks
 - [node2vec | Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/2939672.2939754)
 - [Analysis of node2vec random walks on networks | Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0447)
 
 ### Fairness-aware walks 
 - [Fairwalk: Towards Fair Graph Embedding | IJCAI](https://www.ijcai.org/proceedings/2019/456)
 - [[2105.02725] CrossWalk: Fairness-enhanced Node Representation Learning](https://arxiv.org/abs/2105.02725)
-
 
 
 # Review 
