@@ -29,7 +29,7 @@ c(t) = (c_i + m)\exp\left[F(t;\theta_i) - F(T;\theta_i) \right] - m
 $$
 Note that I follow the derivation by [a follow-up study](https://ojs.aaai.org/index.php/AAAI/article/view/8739), which amends a mathematical leap in [the original paper](https://www.science.org/doi/abs/10.1126/science.1237825).
 ## Simulations 
-The long-term citation model is an inhomogeneous Poisson process, which has been a subject of long tradition. Here, I use a rejection sampling approach referred to as the thinning method. See [here](https://www.math.fsu.edu/~ychen/research/Thinning%20algorithm.pdf) for the details.
+The long-term citation model is an inhomogeneous Poisson process, which has been a subject of long tradition. Here is a code to simulate the model using a rejection sampling approach referred to as the thinning method. See [here](https://www.math.fsu.edu/~ychen/research/Thinning%20algorithm.pdf) for the details.
 
 ```python 
 import numpy as np
