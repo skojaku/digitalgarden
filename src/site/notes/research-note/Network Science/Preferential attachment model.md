@@ -36,4 +36,4 @@ Recency is a natural consequence of the exponential growth. It appers even for a
 
 # Related models:
 
-[[research-note/Network Science/Long-term citation model|Long-term citation model]]
+[[research-note/Network Science/Long term citation model|Long term citation model]]
