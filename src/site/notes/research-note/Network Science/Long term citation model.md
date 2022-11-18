@@ -13,4 +13,8 @@ The long-term citation model characterizes citation dynamics of a paper $i$ duri
 $$
 \lambda_i (t) = \eta_i (c_i(t) + m)S(t;\theta_i) 
 $$ 
-where $\eta_i$ is the fitness and $c_i(t)$ is accumulated number of citations up to time $t$.
+where $\eta_i$ is the fitness and $c_i(t)$ is accumulated number of citations up to time $t$. Variable $m$ accounts for offset attention that is independent of the accumulated citation $c_i$.  Function $S(t;\theta_i)$ characterizes the aging effect given by the log-normal distribution: 
+$$
+S(x; \mu, \sigma) = \frac{1}{x \sigma \sqrt{2\pi}}\exp\left[ - \frac{\left(\ln x - \mu_i\right)^2}{2\sigma^2 _i}\right]
+$$
+shaped by paper-specific parameters $\theta_i = (\mu_i, \sigma_i)$.
