@@ -21,7 +21,7 @@ shaped by paper-specific parameters $\theta_i = (\mu_i, \sigma_i)$.
 
 The long-term citation model predicts citations by the following differential equation:
 $$
-{\rm d}c(t) / {\rm d}t = \eta_i (c_i(t) + m) S(t;\theta_i) 
+\frac{ {\rm d}c(t) }{ {\rm d}t} = \eta_i (c_i(t) + m) S(t;\theta_i) 
 $$
 with boundary condition $c(T) = c_i$.  By solving the differential equation, we obtain the prediction of citations by the long-term citation at time $t$:
 $$
