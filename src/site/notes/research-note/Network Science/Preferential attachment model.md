@@ -34,7 +34,6 @@ Recency is a natural consequence of the exponential growth. It appers even for a
 - [Price's model with initial attraciveness](https://link.springer.com/article/10.1007/s10955-009-9847-5) [Impact of the initial attractiveness](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.4633) [Application to study the first-mover advantage](https://iopscience.iop.org/article/10.1209/0295-5075/86/68001)
 
 
-# Long-term citation model 
+# Related models:
 
-- Quantifying Long-Term Scientific Impact | Science](https://www.science.org/doi/abs/10.1126/science.1237825) 
-- [Modeling and Predicting Popularity Dynamics via Reinforced Poisson Processes | Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/8739)
+[[research-note/Network Science/Long-term citation model|Long-term citation model]]
