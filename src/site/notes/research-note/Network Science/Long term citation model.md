@@ -20,6 +20,3 @@ $$
 shaped by paper-specific parameters $\theta_i = (\mu_i, \sigma_i)$.
 
 The long-term citation model predicts citations by the following differential equation:
-$$
-\frac{{\rm d}c(t)}{{\rm d}t} = \eta_i (c_i(t) + m)S(t;\theta_i) 
-$$
