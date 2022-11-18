@@ -21,13 +21,12 @@ shaped by paper-specific parameters $\theta_i = (\mu_i, \sigma_i)$.
 
 The long-term citation model predicts citations by the following differential equation:
 $$
-{d}c(t) / {d}t = \eta_i (c_i(t) + m) S(t;\theta_i) 
+{\rm d}c(t) / {\rm d}t = \eta_i (c_i(t) + m) S(t;\theta_i) 
 $$
 with boundary condition $c(T) = c_i$.  By solving the differential equation, we obtain the prediction of citations by the long-term citation at time $t$:
 $$
 c(t) = (c_i + m)\exp\left[F(t;\theta_i) - F(T;\theta_i) \right] - m
 $$
-
 Note that I follow the derivation by [a follow-up study](https://ojs.aaai.org/index.php/AAAI/article/view/8739), which amends a mathematical leap in [the original paper](https://www.science.org/doi/abs/10.1126/science.1237825).
 ## Simulations 
 The long-term citation model is an inhomogeneous Poisson process, which has been a subject of long tradition. Here, I use a rejection sampling approach referred to as the thinning method. See [here](https://www.math.fsu.edu/~ychen/research/Thinning%20algorithm.pdf) for the details.
