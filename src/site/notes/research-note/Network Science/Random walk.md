@@ -12,7 +12,7 @@ Random walks are instrumental to network analysis. It provides theoretical found
 
 # Random walks in a simplest form
 
-A simplest form is random walks in undirected and unweighted networks. In this process, an agent called a walker is at a node $i$. The walker randomly chooses the next node $j$ from the neighbors of node $i$. This process is a *markov process* of the first order, i.e., the walker determines the next node based on the current node and has no memory of nodes  previously visited. 
+A simplest form is random walks in undirected and unweighted networks. An agent called a walker at a node $i$ and moves to node $j$ randomly chosen from the neighbors of node $i$. This process is a *markov process* of the first order, i.e., the walker determines the next node based on the current node and has no memory of nodes  previously visited. 
 
 # Variants 
 
