@@ -10,7 +10,7 @@ The expactation-maximization algorithm is a technique to fit a variety of mixtur
 
 ## Problem 
 
-Suppose that you have a set of data samples, each of which is sampled from one of the $K$ probability distributions. You know the parameteric function of the distributions. However, you don't know the parameter values as well as which distribution each data sample is generated from. You want to identify which distribution each sample is generated from and their parameters.
+Suppose that you have a set of data samples, each of which is sampled from one of the $K$ probability distributions. You know the functional form of the distributions. The task is to identify  the parameter values as well as which distribution each data sample is generated from. 
 
 ## Overview of the EM algorithm 
 
@@ -64,7 +64,7 @@ Maximizing $J'$ is a constrained maximization problem. We transform the constrai
 $$
 \hat J' = \sum_{i=1}^N \sum_{k=1}^K  q_{ik} \log \frac{p(k) p(x\vert k)}{q_{ik}} + \alpha \left(\sum_{k}p(k) -1\right).
 $$
-By taking the derivative with respect to $\theta$$ and $\alpha$, we have 
+By taking the derivative with respect to $\theta$ and $\alpha$, we have 
 $$
 \begin{align}
 \frac{\partial \hat J'}{\partial \theta} &= \sum_{i=1}^N \sum_{k=1}^K  q_{ik} \frac{\partial}{\partial \theta}\log p(x\vert k) =0\\
