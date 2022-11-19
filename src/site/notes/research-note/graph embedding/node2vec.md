@@ -12,7 +12,7 @@ There are many repos for node2vec, although not every repo produces consistent r
 
 - [Implementation by the authors of the node2vec paper](https://github.com/aditya-grover/node2vec) This is one of the most cited repo of node2vec. However, this code hasn't been maintained for years and is slow. But this is a well-accepted baseline package. 
 - [node2vec in pip package](https://github.com/eliorc/node2vec) This one has many stars probably because it uses `node2vec` in pypi. However, this node2vec often underperforms because of a bad hyperparameter configuration. Furthermore, this node2vec is extremely slow and memory demanding and not scalable to large networks. 
-- [fastnode2vec](https://github.com/louisabraham/fastnode2vec) This is the fastest implementation of node2vec and generally runs 3-5 times with performance comparable to the original implementation of node2vec. See his [blog](https://louisabraham.github.io/articles/node2vec-sampling.html) if you are interested in the magic behind fastnode2vec. 
+- [fastnode2vec](https://github.com/louisabraham/fastnode2vec) This is the fastest implementation of node2vec and generally runs 3-5 times faster with performance comparable to the original implementation of node2vec. See his [blog](https://louisabraham.github.io/articles/node2vec-sampling.html) if you are interested in the magic behind fastnode2vec. 
 - [pecanpy](https://github.com/krishnanlab/PecanPy/tree/7c1d874c17bcdbdc3a56c19a38eb3f3e440f009b) This only provides command-line client. Not usable.
 - [node2vec in pytorch geometric](https://pytorch-geometric.readthedocs.io/en/latest/index.html) Pytorch implementation of node2vec. Useful if you work with pytorch. 
 
