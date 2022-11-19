@@ -14,13 +14,13 @@ My first move to Bloominton was Feburary 2020, which is just before the pandemic
 Let me divide Bloomington into five districts, downtown, North, South, East and West. Probably the most secure and quite district is South, followed by East, North, West, and downtown. 
 
 - **South**: Near the Olecott park and South High School 
-	- South is the most secure and quite place to live in Bloominton. It's a nice district in particular if you have kids because there are several elementary schools. However, South may not be a good option if you don't have a car. There are few buses connecting the city center and South, and no sparmarket is not within a walking distance for most part of South district. 
+	- South is the most secure and quite place to live in Bloominton. It's a nice district in particular if you have kids because there are several elementary schools. However, South may not be a good option if you don't have a car. There are few buses connecting the city center and South, and sparmarket is not within a walking distance for most part of South district. 
 - **East**: Near the Collage mall Kroger
 	- If you don't have a car but want to live in a quite environment, I think East is the best option. There are many buses to the university. There are many shops and supermaket within walking distance. It's convenient and relatively quite, although the rent is a bit pricy. 
 - **North**: Around Cascade road
 	- If you want to save money but still want to maintain the accessibility to the university, I think North is a good option. There are many apartments and some convinience stores near the studiam. Although I've never considered this area as an option, if I were a student, I would take it into consideration. One potential issue could be noise as it is close to stadium. 
 - **West**: Around the Wallmart
-	- I've never lived in West district but according to the crime map, West may not be a good place to live (maybe I'm wrong).
+	- I'd never lived in West district accordingly to my criteria of neighborhood.
 
 ### How to find apartment/house
 Most houses and apartments for rent can be found in the following websites. 
