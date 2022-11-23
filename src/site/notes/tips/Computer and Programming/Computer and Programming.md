@@ -16,7 +16,7 @@ updated: 2022-09-16
 
 ## Set up
 - [[tips/Computer and Programming/Get started with a new computer|Get started with a new computer]]
-- [[Get started with a new project|Get started with a new project]]
+- [[tips/Get started with a new project|Get started with a new project]]
 - [[Get start with vscode|Get start with vscode]]
 
 ## Python  
