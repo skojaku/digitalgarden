@@ -9,7 +9,6 @@ updated: 2022-11-21
 The configuration model is widely used as a baseline model to assess the significance of patterns observed in empirical networks.  It is a model of random networks that preserves a fundamental characteristics of networks, node degree. 
 
 ## Specification of configuration models
-
 An often appreciated fact is that there are multiple specificications of the configuration model, and that the decision to choose which specification results in a profound impact on the final results. 
 
 ### Unweighted networks
