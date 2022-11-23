@@ -65,7 +65,9 @@ def simulate_poisson_process_LTCM(eta, mu, sig, m, T, bins_per_unit_time=5):
 
 
 ##  Critiques
-The long-term citation model demonstrated an excellent predictive capacity of citations, which is later questioned [Comment on “Quantifying long-term scientific impact” | Science](https://www.science.org/doi/10.1126/science.1248770). Furtheremore, the derivation of the model contains a critical error and unjustified assumptions [(see here)](https://drive.google.com/file/d/1BRfXVSbMV4SZy24PsP21KPidWnyppVCl/view?usp=sharing)  .
+The long-term citation model demonstrated an excellent predictive capacity of citations, which is later questioned [Comment on “Quantifying long-term scientific impact” | Science](https://www.science.org/doi/10.1126/science.1248770). 
+
+Furtheremore, the derivation of the model contains a critical error and unjustified assumptions [(see here)](https://drive.google.com/file/d/1BRfXVSbMV4SZy24PsP21KPidWnyppVCl/view?usp=sharing)  .
 
 
 # References
