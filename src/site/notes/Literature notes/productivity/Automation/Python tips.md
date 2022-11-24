@@ -5,7 +5,7 @@
 
 # Python tips
 updated: 2022-09-28
-
+#tools/python
 
 ## Initializing list 
 
