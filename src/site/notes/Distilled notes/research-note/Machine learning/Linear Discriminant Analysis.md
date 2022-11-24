@@ -5,6 +5,7 @@
 
 
 # Linear Discriminant Analysis 
+#machine-learning/classification
 
 Linear Discrminant Analysis is a dimensionality reduction and classification technique. It is a basis method for many classification algorithms, with a clear geometric interpretation. 
 
