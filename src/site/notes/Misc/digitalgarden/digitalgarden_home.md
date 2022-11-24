@@ -24,17 +24,21 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Distilled notes/research-note/Network Science/Network Science|Network Science]]
 - [[Distilled notes/research-note/Machine learning/Machine Learning|Machine Learning]]
 
+## Coding
+- [[Distilled notes/Set ups, automation, and coding/Code|Code]]
+
 # Teaching (data visualization)
 - [[Literature notes/teaching/datavis/note/Perception - data vis|Perception - data vis]]
 - [[Literature notes/teaching/datavis/note/Design - data vis|Design - data vis]]
 - [[Literature notes/teaching/datavis/note/Tidy Data|Tidy Data]]
 - [[Literature notes/teaching/datavis/note/1D data|1D data]]
 
-# Code
-- [[Distilled notes/Set ups, automation, and coding/Code|Code]]
+#  Tools
+- [[Literature notes/productivity/Note taking/Obsidian - Note taking app|Obsidian - Note taking app]]
+- [[Literature notes/productivity/Automation/Snakemake - workflow management|Snakemake - workflow management]]
+- [[VS code|VS code]]
 
-
-#  Tips
+# Misc
 - [[Distilled notes/Set ups, automation, and coding/Set ups and automation|Set ups and automation]]
 - [[Literature notes/life/Living|Living]]
-- [[Literature notes/productivity/Career/Surviving in academia|Surviving in academia]]
+- [[Literature notes/productivity/Career/Academia life|Academia life]]
