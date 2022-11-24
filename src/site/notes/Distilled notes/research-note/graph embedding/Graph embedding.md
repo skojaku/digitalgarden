@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/distilled-notes/research-note/graph-embedding/graph-embedding/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+#network-science/graph-embedding 
 
 Graph embedding maps a network into a vector space, which let us explore the relationships of nodes using a simple vector operation, or feed them into machine learning algorithms. 
 
