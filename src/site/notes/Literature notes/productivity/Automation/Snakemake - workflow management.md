@@ -5,6 +5,7 @@
 
 # Automating workflow by Snakemake
 updated: 2022-09-30
+#tools/snakemake
 
 One day at a dinner at a conference, a person next to me saying 
 
