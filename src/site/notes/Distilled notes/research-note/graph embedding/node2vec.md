@@ -4,6 +4,8 @@
 
 
 # Node2Vec
+#network-science/graph-embedding 
+#network-science/random-walks
 
 node2vec is a direct application of word2vec optimized with negative sampling. 
 
