@@ -5,7 +5,7 @@
 
 # Preferential attachment model
 updated: 2022-11-09
-
+#network-science/random-networks #network-science/citation-dynamics 
 
 Preferential attachment is a universal and fundamental mechanism underlying the growth of networks. It manifestes a *rich-gets-richer* phenomenon and yields heavy-tailed distributions. 
 
