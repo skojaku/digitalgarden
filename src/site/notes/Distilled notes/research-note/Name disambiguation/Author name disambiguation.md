@@ -5,6 +5,7 @@
 
 # Author name disambiguation
 updated: 2022-09-21
+#science-of-science/name-disambiguation 
 
 Despite the importance of credit allocations, it is surprisingly difficult to answer *who wrote which paper.* We know the name of authors. But an author can have multiple names, and different persons can have the same name. Names are not sufficient to locate the authors. There are efforts to create digital author IDs such as ORCHID. Google Scholar automatically associates papers with authors, and everyone edits own publication list. ArXiv recently lets authors to claim authorships. Yet, these author IDs are far from a universal adoption because the author IDs are limited to the users of a paricular system, and they cannot handle old papers. We still lack a universal system that can link papers and authors across fields and time. 
 
