@@ -9,6 +9,7 @@ updated: 2022-11-11
 
 ## Network analysis 
 - [Disruption index](https://gist.github.com/skojaku/cee26755645b133a69d6630c79307cde#file-calc_disruption_index-py)
+- [Long-term citation model](https://gist.github.com/skojaku/8494552b3012d047f6555b5f322e3eaf)
 - [Core-periphery detection](https://github.com/skojaku/core-periphery-detection)
 - [Citation cartel detection](https://github.com/skojaku/cidre)
 - [Belief propagation algorithm](https://github.com/skojaku/BeliefPropagation)
