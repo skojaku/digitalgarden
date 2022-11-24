@@ -6,6 +6,7 @@
 # Random walk
 
 updated: 2022-11-16
+#network-science/random-walks
 
 Random walks are instrumental to network analysis. It provides theoretical foundation of community detection, centrality analysis, routing, and embedding. 
 
