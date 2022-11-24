@@ -5,6 +5,7 @@
 
 # Noise contrastive learning
 updated: 2022-11-09
+#machine-learning/contrastive-learning
 
 ## Paper
 [Noise-contrastive estimation: A new estimation principle for unnormalized statistical models](https://proceedings.mlr.press/v9/gutmann10a.html)
