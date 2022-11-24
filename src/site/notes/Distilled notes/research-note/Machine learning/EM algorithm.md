@@ -3,8 +3,10 @@
 ---
 
 
-# The expectation-maximization algorithm
+# EM algorithm
 updated: 2022-11-15
+#machine-learning/classification
+
 
 The expactation-maximization algorithm is a technique to fit a variety of mixture models such as Gaussian mixture. I'll walk through the key idea and why it works. 
 
