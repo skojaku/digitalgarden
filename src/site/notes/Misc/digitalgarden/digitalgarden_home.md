@@ -26,6 +26,8 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 ## Coding
 - [[Distilled notes/Set ups, automation, and coding/Code|Code]]
+- [[Distilled notes/research-note/know-how/Python|Python]]
+
 
 # Teaching (data visualization)
 - [[Literature notes/teaching/datavis/note/Perception - data vis|Perception - data vis]]
