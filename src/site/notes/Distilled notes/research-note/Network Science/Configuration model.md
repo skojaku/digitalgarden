@@ -5,6 +5,7 @@
 
 # Configuration model
 updated: 2022-11-21
+#network-science/random-networks
 
 The configuration model is widely used as a baseline model to assess the significance of patterns observed in empirical networks.  It is a model of random networks that preserves a fundamental characteristics of networks, node degree. 
 
