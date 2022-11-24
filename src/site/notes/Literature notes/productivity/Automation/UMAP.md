@@ -5,7 +5,7 @@
 
 # UMAP
 updated: 2022-10-12
-
+#tools/umap
 
 [UMAP]() is a great tool to visualize a high dimensional data. It reduces the dimension by preserving local proximity of data points. 
 
