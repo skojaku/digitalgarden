@@ -5,6 +5,7 @@
 
 # Rethinking training algorithms for ML
 updated: 2022-09-23
+#machine-learning/stochastic-gradient-descent
 
 A classical bias-variance tradeoff tells us that as the model complexity increases, the model fits better to training data and less to unseen data. This narrative does not explain recent success in large-scale overparameterized neural networks with billions of parameters. Why do seemingly overparameterized models perform so better without being overfitted to training data? One of the secrets is the training algorithm.  
 
