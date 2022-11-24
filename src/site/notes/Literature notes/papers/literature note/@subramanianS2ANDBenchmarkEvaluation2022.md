@@ -9,8 +9,8 @@ by Shivashankar Subramanian, Daniel King, Doug Downey, Sergey Feldman
 [Web](http://arxiv.org/abs/2103.07534) [Open in zotero]( zotero://select/items/@subramanianS2ANDBenchmarkEvaluation2022)
 
 **Tags**: 
-#literature-note
-#name-disambiguation 
+
+#science-of-science/name-disambiguation 
 
 ---
 
