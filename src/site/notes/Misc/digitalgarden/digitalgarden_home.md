@@ -31,10 +31,10 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Literature notes/teaching/datavis/note/1D data|1D data]]
 
 # Code
-- [[Misc/tips/coding/Code|Code]]
+- [[Distilled notes/Set ups, automation, and coding/Code|Code]]
 
 
 #  Tips
-- [[Misc/tips/Computer and Programming/Computer and Programming|Computer and Programming]]
-- [[Misc/tips/Living/Living|Living]]
-- [[Misc/tips/Career/Surviving in academia|Surviving in academia]]
+- [[Distilled notes/Set ups, automation, and coding/Set ups and automation|Set ups and automation]]
+- [[Literature notes/life/Living|Living]]
+- [[Literature notes/productivity/Career/Surviving in academia|Surviving in academia]]
