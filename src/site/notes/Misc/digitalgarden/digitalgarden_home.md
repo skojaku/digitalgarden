@@ -38,7 +38,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 
 #  Tools
 - [[Literature notes/productivity/Note taking/Obsidian - Note taking app|Obsidian - Note taking app]]
-- [[Literature notes/productivity/Automation/Snakemake - workflow management|Snakemake - workflow management]]
+- [[Distilled notes/productivity/Snakemake - workflow management|Snakemake - workflow management]]
 - [[VS code|VS code]]
 
 # Misc
