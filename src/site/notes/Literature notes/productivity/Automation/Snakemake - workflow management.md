@@ -130,9 +130,9 @@ input_file = f"results/simulations/{paramspace.wildcard_pattern}.tsv"
 ```
 Here, the `input_file` looks like this:
 ```python
-"results/simulations/alpha~{alpha}_beta~{beta}_gamma~{gamma}".tsv
+"results/simulations/alpha~{alpha}_beta~{beta}_gamma~{gamma}.tsv"
 ```
-If the alpha to gamma is parameter names taken from the columns of the input DataFrame. 
+where the alpha to gamma is parameter names taken from the columns of the input DataFrame. 
 
 It is convenient, though I don't like creating the DataFrame alone. So I wrote a simple utility function that makes parameter handling easier.
 
