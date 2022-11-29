@@ -10,4 +10,4 @@ updated: 2022-11-16
 - [[Literature notes/research-note/Machine learning/EM algorithm|EM algorithm]]
 - [[Literature notes/research-note/Machine learning/Linear Discriminant Analysis|Linear Discriminant Analysis]]
 - [[Literature notes/research-note/Machine learning/Noise contrastive learning|Noise contrastive learning]]
-- [[Evaluating rankings|Evaluating rankings]]
+- [[Literature notes/productivity/Automation/Evaluating rankings|Evaluating rankings]]
