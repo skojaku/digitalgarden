@@ -24,7 +24,7 @@ Here, the `input_file` looks like this:
 ```
 where the alpha to gamma is parameter names taken from the columns of the input DataFrame. 
 
-It is convenient, though I don't like creating the DataFrame alone. So I wrote a simple utility function that makes parameter handling easier.
+It is convenient, though I don't like creating the DataFrame. So I wrote a simple utility function that makes parameter handling easier.
 
 [Utilities for Snakemake · GitHub](https://gist.github.com/skojaku/6284abed6406b17a86ddbfdb400df4db)
 
