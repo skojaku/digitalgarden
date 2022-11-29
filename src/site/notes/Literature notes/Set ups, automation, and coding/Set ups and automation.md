@@ -11,7 +11,7 @@ updated: 2022-09-16
 - [[Literature notes/productivity/Automation/Automate switching conda environment|Automate switching conda environment]]
 - [[Literature notes/productivity/Automation/Automate file sharing through cloud|Automate file sharing through cloud]]
 - [[Keyboard maestro|Keyboard maestro]]
-- [[Literature notes/productivity/Automation/Snakemake - workflow management|Snakemake - workflow management]]
+- [[Distilled notes/productivity/Snakemake - workflow management|Snakemake - workflow management]]
 
 
 ## Set up
