@@ -12,21 +12,22 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 # Research
 
 ## My research 
-- [[Distilled notes/research-note/graph embedding/Graph embedding|Graph embedding]]
-- [[Distilled notes/research-note/Community detection/Detectability limit of communities|Detectability limit of communities]]
-- [[Distilled notes/research-note/AI fairness/Biases in AIs|Biases in AIs]]
-- [[Distilled notes/research-note/Name disambiguation/Author name disambiguation|Author name disambiguation]]
+- [[Literature notes/research-note/graph embedding/Graph embedding|Graph embedding]]
+- [[Literature notes/research-note/Community detection/Detectability limit of communities|Detectability limit of communities]]
+- [[Literature notes/research-note/AI fairness/Biases in AIs|Biases in AIs]]
+- [[Literature notes/research-note/Name disambiguation/Author name disambiguation|Author name disambiguation]]
 - [[Mapping scientific foraging|Mapping scientific foraging]]
-- [[Misc/archive/Metric fixation in Science|Metric fixation in Science]]
+- [[Literature notes/research-note/Science of Science/Science of science#Metric fixation|Science of science#Metric fixation]]
 - [[Core-periphery structure|Core-periphery structure]]
 
 ## Research Note:
-- [[Distilled notes/research-note/Network Science/Network Science|Network Science]]
-- [[Distilled notes/research-note/Machine learning/Machine Learning|Machine Learning]]
+- [[Literature notes/research-note/Network Science/Network Science|Network Science]]
+- [[Literature notes/research-note/Machine learning/Machine Learning|Machine Learning]]
+- [[Literature notes/research-note/Science of Science/Science of science|Science of science]]
 
 ## Coding
-- [[Distilled notes/Set ups, automation, and coding/Code|Code]]
-- [[Distilled notes/research-note/know-how/Python|Python]]
+- [[Literature notes/Set ups, automation, and coding/Code|Code]]
+- [[Literature notes/research-note/know-how/Python|Python]]
 
 
 # Teaching (data visualization)
@@ -41,6 +42,6 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[VS code|VS code]]
 
 # Misc
-- [[Distilled notes/Set ups, automation, and coding/Set ups and automation|Set ups and automation]]
+- [[Literature notes/Set ups, automation, and coding/Set ups and automation|Set ups and automation]]
 - [[Literature notes/life/Living|Living]]
 - [[Literature notes/productivity/Career/Academia life|Academia life]]
