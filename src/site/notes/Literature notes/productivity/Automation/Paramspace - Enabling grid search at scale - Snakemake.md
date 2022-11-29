@@ -7,7 +7,7 @@
 updated: 2022-11-29
 #tools/snakemake 
 
-Snakemake provides a rich set of functions to handle parameter spaces. Yet, it gets tedious when exploring a combination of many types of parameters. Snakemake provides a helper called `Paramspace` to handle this situation. 
+Snakemake provides a rich set of functions to handle parameter spaces. Yet, it gets tedious when exploring many combinations of many types of parameters. Snakemake provides a helper called `Paramspace` to handle this situation. 
 
 - [Snakefiles and Rules — Snakemake 7.18.2.1 documentation](https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html#parameter-space-exploration)
 
