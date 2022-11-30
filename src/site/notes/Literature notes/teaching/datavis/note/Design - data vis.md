@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/teaching/datavis/note/design-data-vis/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/teaching/datavis/note/design-data-vis/"}
 ---
 
 
