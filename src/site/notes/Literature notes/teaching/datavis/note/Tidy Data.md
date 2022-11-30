@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/teaching/datavis/note/tidy-data/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/teaching/datavis/note/tidy-data/"}
 ---
 
 
