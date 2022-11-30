@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/network-science/preferential-attachment-model/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/network-science/preferential-attachment-model/"}
 ---
 
 
@@ -36,4 +36,4 @@ Recency is a natural consequence of the exponential growth. It appers even for a
 
 # Related models:
 
-[[Literature notes/research-note/Network Science/Long term citation model|Long term citation model]]
+[[Literature notes/research-note/Network Science/Long term citation model\|Long term citation model]]
