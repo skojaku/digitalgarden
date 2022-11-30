@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/machine-learning/noise-contrastive-learning/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/machine-learning/noise-contrastive-learning/"}
 ---
 
 
