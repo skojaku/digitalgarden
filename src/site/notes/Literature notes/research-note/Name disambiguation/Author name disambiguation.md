@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/name-disambiguation/author-name-disambiguation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/name-disambiguation/author-name-disambiguation/"}
 ---
 
 
