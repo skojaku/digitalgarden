@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seed-notes/scratch/notes/experience-is-fundamental-to-learning/"}
+{"dg-publish":true,"permalink":"/seed-notes/scratch/notes/experience-is-fundamental-to-learning/","dgPassFrontmatter":true}
 ---
 
 
