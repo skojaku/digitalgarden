@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/ai-fairness/biases-in-a-is/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/ai-fairness/biases-in-a-is/"}
 ---
 
 
@@ -17,32 +17,32 @@ AIs are increasingly capable of learning complex patterns from big data. The dat
 	- [Machine learning for medicine can be biased. A DL that is trained on 129,450 images to find skin cancer failed to work for black-skin people due to the skewness of the dark-skin people](https://www.theatlantic.com/health/archive/2018/08/machine-learning-dermatology-skin-color/567619/)
 	- [Wikipedia, a diverse and rich crowd data sources, has bibliographies, of which 18 % of are on women](https://en.wikipedia.org/wiki/Gender_bias_on_Wikipedia)
 - **Understanding the maniufold of embedding**
-	- Word embedding reflects undesirable societal bias such as gender [[Literature notes/papers/archive/Bolukbasi NIPS 2016|Bolukbasi NIPS 2016]]. 
-	-  SGNS produces a gender neutral embedding for most words but amplifies the gender-bias for gender specific words [[Literature notes/papers/archive/Ethayarajh ACL 2019|Ethayarajh ACL 2019]].
-	- SGNS and word frequency: [[Literature notes/papers/archive/Zhou arXiv 2021|Zhou arXiv 2021]] [[Literature notes/papers/archive/Ethayarajh ACL 2019b|Ethayarajh ACL 2019b]]
-	- Bias in graph embedding [[Literature notes/papers/archive/Edwards ICML 2016|Edwards ICML 2016]][[Literature notes/papers/archive/Bose ICML 2019|Bose ICML 2019]] [[Literature notes/papers/archive/Khajehnejad arXiv 2021|Khajehnejad arXiv 2021]]
-	- Friendship paradox [[Friendship paradox|Friendship paradox]]
-	- Bias in contextualized embeddings [[Literature notes/papers/archive/Christine ACL 2019|Christine ACL 2019]] [[Literature notes/papers/archive/Kurita ACL 2019|Kurita ACL 2019]]
-	- Bias mining [[Literature notes/papers/archive/Swinger AAAI 2019|Swinger AAAI 2019]]
-	- Bias is covered by debiasing method but not removed [[Literature notes/papers/archive/Hila Gonen  NAACL 2019|Hila Gonen  NAACL 2019]]
+	- Word embedding reflects undesirable societal bias such as gender [[Literature notes/papers/archive/Bolukbasi NIPS 2016\|Bolukbasi NIPS 2016]]. 
+	-  SGNS produces a gender neutral embedding for most words but amplifies the gender-bias for gender specific words [[Literature notes/papers/archive/Ethayarajh ACL 2019\|Ethayarajh ACL 2019]].
+	- SGNS and word frequency: [[Literature notes/papers/archive/Zhou arXiv 2021\|Zhou arXiv 2021]] [[Literature notes/papers/archive/Ethayarajh ACL 2019b\|Ethayarajh ACL 2019b]]
+	- Bias in graph embedding [[Literature notes/papers/archive/Edwards ICML 2016\|Edwards ICML 2016]][[Literature notes/papers/archive/Bose ICML 2019\|Bose ICML 2019]] [[Literature notes/papers/archive/Khajehnejad arXiv 2021\|Khajehnejad arXiv 2021]]
+	- Friendship paradox [[Friendship paradox\|Friendship paradox]]
+	- Bias in contextualized embeddings [[Literature notes/papers/archive/Christine ACL 2019\|Christine ACL 2019]] [[Literature notes/papers/archive/Kurita ACL 2019\|Kurita ACL 2019]]
+	- Bias mining [[Literature notes/papers/archive/Swinger AAAI 2019\|Swinger AAAI 2019]]
+	- Bias is covered by debiasing method but not removed [[Literature notes/papers/archive/Hila Gonen  NAACL 2019\|Hila Gonen  NAACL 2019]]
 - **Metrics and benchmark for biases**
-	- SemBias [[Literature notes/papers/archive/Zhao ACL 2018|Zhao ACL 2018]]
-	- Direct and Indirect biases [[Literature notes/papers/archive/Bolukbasi NIPS 2016|Bolukbasi NIPS 2016]]
-	- Percent Male neighbors (PMN) [[Literature notes/papers/archive/Gonen ACL 2019|Gonen ACL 2019]] 
-	- WEAT statistic [[Literature notes/papers/archive/Aylin Caliskan Science 2017|Aylin Caliskan Science 2017]], Generalized WEAT for multi-categories [[Literature notes/papers/archive/Swinger AAAI 2019|Swinger AAAI 2019]]
+	- SemBias [[Literature notes/papers/archive/Zhao ACL 2018\|Zhao ACL 2018]]
+	- Direct and Indirect biases [[Literature notes/papers/archive/Bolukbasi NIPS 2016\|Bolukbasi NIPS 2016]]
+	- Percent Male neighbors (PMN) [[Literature notes/papers/archive/Gonen ACL 2019\|Gonen ACL 2019]] 
+	- WEAT statistic [[Literature notes/papers/archive/Aylin Caliskan Science 2017\|Aylin Caliskan Science 2017]], Generalized WEAT for multi-categories [[Literature notes/papers/archive/Swinger AAAI 2019\|Swinger AAAI 2019]]
 	- [Relative Negative Sentiment Bias](https://aclanthology.org/P19-1162v2.pdf)
-	- Nearest neighbor approach [[Literature notes/papers/archive/Hila Gonen  NAACL 2019|Hila Gonen  NAACL 2019]]
+	- Nearest neighbor approach [[Literature notes/papers/archive/Hila Gonen  NAACL 2019\|Hila Gonen  NAACL 2019]]
 - **Debiasing**
-	- Projection [[Literature notes/papers/archive/Bolukbasi NIPS 2016|Bolukbasi NIPS 2016]]
-	- Debiasing by learning [[Literature notes/papers/archive/Zhao ACL 2018|Zhao ACL 2018]]
-	- Identifyng biased curpos [[Literature notes/papers/archive/Mark-Etienne Brunet ICML 2019|Mark-Etienne Brunet ICML 2019]]
-	- Iterative Null space projection [[Literature notes/papers/archive/Shauli Ravfogel ACL 2020|Shauli Ravfogel ACL 2020]]
+	- Projection [[Literature notes/papers/archive/Bolukbasi NIPS 2016\|Bolukbasi NIPS 2016]]
+	- Debiasing by learning [[Literature notes/papers/archive/Zhao ACL 2018\|Zhao ACL 2018]]
+	- Identifyng biased curpos [[Literature notes/papers/archive/Mark-Etienne Brunet ICML 2019\|Mark-Etienne Brunet ICML 2019]]
+	- Iterative Null space projection [[Literature notes/papers/archive/Shauli Ravfogel ACL 2020\|Shauli Ravfogel ACL 2020]]
 	- [Open AI's effort in debiasing DALL-E](https://github.com/openai/dalle-2-preview/blob/main/system-card.md?utm_source=Sailthru&utm_medium=email&utm_campaign=Future%20Perfect%204-12-22&utm_term=Future%20Perfect)
 	- [Debiasing GPT-3 by fine-tuning with curated datasets](https://proceedings.neurips.cc/paper/2021/hash/2e855f9489df0712b4bd8ea9e2848c5a-Abstract.html)
 - **Issues in analogy test to quantify bias**
-	- Critical problem of analogy tests on embeddings [[Literature notes/papers/archive/Nissim ACL 2020|Nissim ACL 2020]]
-	- The answer x to the analogy "a:b :: b:x?" often is close to b. [[Literature notes/papers/archive/Anna Rogers SEM 2017|Anna Rogers SEM 2017]] [Linzen](https://aclanthology.org/W16-2503.pdf)
-	- What is analogy, and why embedding approaches fail? [[Literature notes/papers/archive/Anna Rogers SEM 2017|Anna Rogers SEM 2017]]
+	- Critical problem of analogy tests on embeddings [[Literature notes/papers/archive/Nissim ACL 2020\|Nissim ACL 2020]]
+	- The answer x to the analogy "a:b :: b:x?" often is close to b. [[Literature notes/papers/archive/Anna Rogers SEM 2017\|Anna Rogers SEM 2017]] [Linzen](https://aclanthology.org/W16-2503.pdf)
+	- What is analogy, and why embedding approaches fail? [[Literature notes/papers/archive/Anna Rogers SEM 2017\|Anna Rogers SEM 2017]]
 	- https://aclanthology.org/S17-1017/
 	- https://arxiv.org/abs/1903.03862
 	- https://arxiv.org/abs/1904.04047
