@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/projects/detectability-limit-of-graph-embedding/notes/leaky-eigenvalue-problem/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/projects/detectability-limit-of-graph-embedding/notes/leaky-eigenvalue-problem/"}
 ---
 
 
@@ -15,7 +15,7 @@ date: 2022-03-21
 Leaky eigenvalue problem is refers to the problem the increasing likelihood of extreme eigenvalues appeared outside of the range predicted for dense random networks. More sparse the network becomes, more likely to appear are the extreme eigenvalues. 
 
 # References 
-- [[Literature notes/papers/archive/Georges arXiv 2017|Georges arXiv 2017]]
+- [[Literature notes/papers/archive/Georges arXiv 2017\|Georges arXiv 2017]]
 - http://helper.ipam.ucla.edu/publications/qlaws3/qlaws3_14643.pdf
 
 ### Range of extreme eigenvalues
