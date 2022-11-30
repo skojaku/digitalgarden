@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/distilled-notes/productivity/snakemake-workflow-management/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/distilled-notes/productivity/snakemake-workflow-management/"}
 ---
 
 
@@ -18,7 +18,7 @@ The same applies to experiments. At the beginning of a research project, we ofte
 Experiments are repetitive. We run dozens of experiments daily with slightly different configurations across different datasets. The design of the experiments is often repeatedly changed during the course of a project. Making the workflow in order requires enormous effort and is time-consuming. That's where **Snakemake** comes in.  
 
 # Tips
-- [[Literature notes/productivity/Automation/Setting up Snakemake|Setting up Snakemake]]
-- [[Literature notes/productivity/Automation/Directive - Powerful integration of python scripts into workflow - Snakemake|Directive - Powerful integration of python scripts into workflow - Snakemake]]
-- [[Literature notes/productivity/Automation/Wildcard - Abstracting out file names - Snakemake|Wildcard - Abstracting out file names - Snakemake]]
-- [[Literature notes/productivity/Automation/Paramspace - Enabling grid search at scale - Snakemake|Paramspace - Enabling grid search at scale - Snakemake]]
+- [[Literature notes/productivity/Automation/Setting up Snakemake\|Setting up Snakemake]]
+- [[Literature notes/productivity/Automation/Directive - Powerful integration of python scripts into workflow - Snakemake\|Directive - Powerful integration of python scripts into workflow - Snakemake]]
+- [[Literature notes/productivity/Automation/Wildcard - Abstracting out file names - Snakemake\|Wildcard - Abstracting out file names - Snakemake]]
+- [[Literature notes/productivity/Automation/Paramspace - Enabling grid search at scale - Snakemake\|Paramspace - Enabling grid search at scale - Snakemake]]
