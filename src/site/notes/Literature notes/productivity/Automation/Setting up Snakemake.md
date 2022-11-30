@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/setting-up-snakemake/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/setting-up-snakemake/"}
 ---
 
 
