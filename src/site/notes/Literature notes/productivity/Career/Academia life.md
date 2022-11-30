@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/productivity/career/academia-life/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/productivity/career/academia-life/"}
 ---
 
 
