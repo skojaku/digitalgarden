@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/evaluating-rankings/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/evaluating-rankings/"}
 ---
 
 
