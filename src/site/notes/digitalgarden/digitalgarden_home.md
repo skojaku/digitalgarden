@@ -12,36 +12,36 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 # Research
 
 ## My research 
-- [[research-note/graph embedding/Graph embedding\|Graph embedding]]
-- [[research-note/Community detection/Detectability limit of communities\|Detectability limit of communities]]
-- [[research-note/AI fairness/Biases in AIs\|Biases in AIs]]
-- [[research-note/Name disambiguation/Author name disambiguation\|Author name disambiguation]]
+- [[Research-note/graph embedding/Graph embedding\|Graph embedding]]
+- [[Research-note/Community detection/Detectability limit of communities\|Detectability limit of communities]]
+- [[Research-note/AI fairness/Biases in AIs\|Biases in AIs]]
+- [[Research-note/Name disambiguation/Author name disambiguation\|Author name disambiguation]]
 - [[Mapping scientific foraging\|Mapping scientific foraging]]
-- [[research-note/Science of Science/Science of science#Metric fixation\|Science of science#Metric fixation]]
+- [[Research-note/Science of Science/Science of science#Metric fixation\|Science of science#Metric fixation]]
 - [[Core-periphery structure\|Core-periphery structure]]
 
 ## Research Note:
-- [[research-note/Network Science/Network Science\|Network Science]]
-- [[research-note/Machine learning/Machine Learning\|Machine Learning]]
-- [[research-note/Science of Science/Science of science\|Science of science]]
+- [[Research-note/Network Science/Network Science\|Network Science]]
+- [[Research-note/Machine learning/Machine Learning\|Machine Learning]]
+- [[Research-note/Science of Science/Science of science\|Science of science]]
 
 ## Coding
 - [[Set ups, automation, and coding/Code\|Code]]
-- [[research-note/know-how/Python\|Python]]
+- [[Research-note/know-how/Python\|Python]]
 
 
 # Teaching (data visualization)
-- [[teaching/datavis/note/Perception - data vis\|Perception - data vis]]
-- [[teaching/datavis/note/Design - data vis\|Design - data vis]]
-- [[teaching/datavis/note/Tidy Data\|Tidy Data]]
-- [[teaching/datavis/note/1D data\|1D data]]
+- [[Teaching/datavis/note/Perception - data vis\|Perception - data vis]]
+- [[Teaching/datavis/note/Design - data vis\|Design - data vis]]
+- [[Teaching/datavis/note/Tidy Data\|Tidy Data]]
+- [[Teaching/datavis/note/1D data\|1D data]]
 
 #  Tools
-- [[productivity/Note taking/Obsidian - Note taking app\|Obsidian - Note taking app]]
-- [[productivity/Automation/Snakemake - workflow management\|Snakemake - workflow management]]
+- [[Productivity/Note taking/Obsidian - Note taking app\|Obsidian - Note taking app]]
+- [[Productivity/Automation/Snakemake - workflow management\|Snakemake - workflow management]]
 - [[VS code\|VS code]]
 
 # Misc
 - [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
-- [[life/Living\|Living]]
-- [[productivity/Career/Academia life\|Academia life]]
+- [[Life/Living\|Living]]
+- [[Productivity/Career/Academia life\|Academia life]]
