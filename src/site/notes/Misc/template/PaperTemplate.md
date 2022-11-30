@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/template/paper-template/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/misc/template/paper-template/"}
 ---
 
 
