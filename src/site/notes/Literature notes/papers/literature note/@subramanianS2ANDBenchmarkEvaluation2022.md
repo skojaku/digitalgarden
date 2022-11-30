@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/papers/literature-note/subramanian-s2-and-benchmark-evaluation2022/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/papers/literature-note/subramanian-s2-and-benchmark-evaluation2022/"}
 ---
 
 
