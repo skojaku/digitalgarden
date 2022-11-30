@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/machine-learning/em-algorithm/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/machine-learning/em-algorithm/"}
 ---
 
 
