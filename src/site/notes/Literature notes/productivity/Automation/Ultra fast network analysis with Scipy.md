@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/ultra-fast-network-analysis-with-scipy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/ultra-fast-network-analysis-with-scipy/"}
 ---
 
 
