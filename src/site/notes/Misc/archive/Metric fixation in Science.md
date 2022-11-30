@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/archive/metric-fixation-in-science/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/misc/archive/metric-fixation-in-science/"}
 ---
 
 
