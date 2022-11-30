@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/science-of-science/science-of-science/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/science-of-science/science-of-science/"}
 ---
 
 
@@ -13,8 +13,8 @@ updated: 2022-11-28
 - [Specialized cities](https://www.nature.com/articles/d41586-022-02880-9)
 
 # Collaborations 
-- Universities play a key role in scintific activities [[Literature notes/papers/archive/Duede arXiv 2021|Duede arXiv 2021]]
-- Knowledge production can be better predicated by scientists's activities [[Literature notes/papers/archive/James Evans arXiv 2021|James Evans arXiv 2021]]
+- Universities play a key role in scintific activities [[Literature notes/papers/archive/Duede arXiv 2021\|Duede arXiv 2021]]
+- Knowledge production can be better predicated by scientists's activities [[Literature notes/papers/archive/James Evans arXiv 2021\|James Evans arXiv 2021]]
 
 # Metric fixation 
 
