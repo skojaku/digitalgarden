@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/teaching/datavis/note/1-d-data/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/teaching/datavis/note/1-d-data/"}
 ---
 
 
