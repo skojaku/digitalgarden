@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/graph-embedding/graph-embedding/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/graph-embedding/graph-embedding/"}
 ---
 
 #network-science/graph-embedding 
@@ -15,7 +15,7 @@ Spectral embedding produces an embedding by factorizing a matrix representing a 
 	- Diffusion Map
 	- [Modularity embedding](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.188701)
 	- [Non-backtracking embedding](https://www.pnas.org/doi/10.1073/pnas.1312486110)
-	- [[Flow-based embedding|Flow-based embedding]](https://arxiv.org/abs/1308.6494)
+	- [[Flow-based embedding\|Flow-based embedding]](https://arxiv.org/abs/1308.6494)
 
 
 # Neural embedding 
@@ -24,9 +24,9 @@ Neural embedding emerges as a powerful alternative to spectral embedding. It is 
 ## Based on random walks 
 This family of neural embedding adapts a word embedding model for graph embedding. The key idea is to generate an input for a word embedding model (mostly word2vec) by running random walks in networks. The random walker generates a sequence of visited nodes, which is then regarded as "a sentence of nodes" and fed it into the word embedding model. 
 
-- [[DeepWalk|DeepWalk]] 
-- [[Literature notes/research-note/graph embedding/node2vec|node2vec]]
-- [[LINE|LINE]] (although it doesn't use random walks explicitly, edge sampling is equivalent to runing a random walk with one step).
+- [[DeepWalk\|DeepWalk]] 
+- [[Literature notes/research-note/graph embedding/node2vec\|node2vec]]
+- [[LINE\|LINE]] (although it doesn't use random walks explicitly, edge sampling is equivalent to runing a random walk with one step).
 
 
 ## Based on convolusion
@@ -35,4 +35,4 @@ This family of neural embedding adapts a word embedding model for graph embeddin
 - GraphSAGE
 
 # Properties 
-- [[Literature notes/research-note/Community detection/Detectability limit of communities|Detectability limit of communities]]
+- [[Literature notes/research-note/Community detection/Detectability limit of communities\|Detectability limit of communities]]
