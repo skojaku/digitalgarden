@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/productivity/career/pros-and-cons-of-being-an-editor/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/productivity/career/pros-and-cons-of-being-an-editor/"}
 ---
 
 
