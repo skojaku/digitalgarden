@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/directive-powerful-integration-of-python-scripts-into-workflow-snakemake/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/directive-powerful-integration-of-python-scripts-into-workflow-snakemake/"}
 ---
 
 
