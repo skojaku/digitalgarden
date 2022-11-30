@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/graph-embedding/node2vec/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/graph-embedding/node2vec/"}
 ---
 
 
@@ -46,6 +46,6 @@ node2vec has several parameters to define random walks in networks together with
 
 # Relation to other methods 
 - node2vec can be imterpreted as an implicit matrix factorization and be trained using spectral methods [paper](https://dl.acm.org/doi/abs/10.1145/3159652.3159706)
-- node2vec is equivalent to [[LINE|LINE]] if `context` or (`window_length`) is one. [paper](https://dl.acm.org/doi/abs/10.1145/3159652.3159706)
+- node2vec is equivalent to [[LINE\|LINE]] if `context` or (`window_length`) is one. [paper](https://dl.acm.org/doi/abs/10.1145/3159652.3159706)
 - A common misconception is that node2vec with unbiased random walks is equivalent to DeepWalk. This misconception is attributed to this [paper](https://dl.acm.org/doi/abs/10.1145/3159652.3159706). This paper assumes that DeepWalk is optimized based on negative sampling, which is incorrect. DeepWalk is trained on hierarchical softmax, and the difference in the training algorithm does matter [paper](https://proceedings.neurips.cc/paper/2021/hash/ca9541826e97c4530b07dda2eba0e013-Abstract.html).  node2vec is equivalent to DeepWalk only if `ns_exponent = 0` or the given network is a regular graph. 
 - node2vec and Modularity has a similar form in terms of the objective function. 
