@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/machine-learning/rethinking-training-algorithms-for-ml/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/machine-learning/rethinking-training-algorithms-for-ml/"}
 ---
 
 
@@ -35,6 +35,6 @@ Overparameterized models + SGD generates a pecuilar phenomena called *double des
 
 
 ## Contrastive learning
-- [[Literature notes/research-note/Machine learning/Noise contrastive learning|Noise contrastive learning]]
+- [[Literature notes/research-note/Machine learning/Noise contrastive learning\|Noise contrastive learning]]
 
 
