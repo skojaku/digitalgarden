@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/paramspace-enabling-grid-search-at-scale-snakemake/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/productivity/automation/paramspace-enabling-grid-search-at-scale-snakemake/"}
 ---
 
 
@@ -78,4 +78,4 @@ which can be accessed from the script via the `snakemake` object, e.g.,
 dim = snakemake.params["dim"]
 ```
 
-See [[Literature notes/productivity/Automation/Directive - Powerful integration of python scripts into workflow - Snakemake|Directive - Powerful integration of python scripts into workflow - Snakemake]].
+See [[Literature notes/productivity/Automation/Directive - Powerful integration of python scripts into workflow - Snakemake\|Directive - Powerful integration of python scripts into workflow - Snakemake]].
