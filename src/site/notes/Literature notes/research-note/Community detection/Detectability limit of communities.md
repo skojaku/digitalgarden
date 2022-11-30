@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-notes/research-note/community-detection/detectability-limit-of-communities/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/literature-notes/research-note/community-detection/detectability-limit-of-communities/"}
 ---
 
 
@@ -12,22 +12,22 @@ More specifically, suppose a toy network consisting of some communities. Each co
 The detectability limit depends on the sparsity of networks. There are two regimes of network sparsity depending on how the node degree increases with respect to the number of nodes in networks. A network is said to be dense if the average degree increases. If the average degree is constant or decreases, the networks are said to be sparse. 
 
 **dense regime**: Degree increases with respect to the number of nodes
-- Larger window size is better [[Literature notes/papers/literature note/@zhangConsistencyRandomwalkBased2021|@zhangConsistencyRandomwalkBased2021]] [[Literature notes/papers/literature note/@barotCommunityDetectionUsing2021|@barotCommunityDetectionUsing2021]]
-- Non-backtracking walks improve the detectability limit of graph embedding [[Literature notes/papers/literature note/@barotCommunityDetectionUsing2021|@barotCommunityDetectionUsing2021]]
-- Detectability limit for communities of different sizes [[Literature notes/papers/literature note/@chenUniversalPhaseTransition2015|@chenUniversalPhaseTransition2015]]
-- Detectability limit of networks with communities of different sizes and internal strucure [[Literature notes/papers/literature note/@chenPhaseTransitionsSpectral2014|@chenPhaseTransitionsSpectral2014]]
+- Larger window size is better [[Literature notes/papers/literature note/@zhangConsistencyRandomwalkBased2021\|@zhangConsistencyRandomwalkBased2021]] [[Literature notes/papers/literature note/@barotCommunityDetectionUsing2021\|@barotCommunityDetectionUsing2021]]
+- Non-backtracking walks improve the detectability limit of graph embedding [[Literature notes/papers/literature note/@barotCommunityDetectionUsing2021\|@barotCommunityDetectionUsing2021]]
+- Detectability limit for communities of different sizes [[Literature notes/papers/literature note/@chenUniversalPhaseTransition2015\|@chenUniversalPhaseTransition2015]]
+- Detectability limit of networks with communities of different sizes and internal strucure [[Literature notes/papers/literature note/@chenPhaseTransitionsSpectral2014\|@chenPhaseTransitionsSpectral2014]]
 
 **sparse regime**: Degree is fixed constant. 
-- [[Literature notes/papers/archive/Nadakuditi PRL 2012|Nadakuditi PRL 2012]]
+- [[Literature notes/papers/archive/Nadakuditi PRL 2012\|Nadakuditi PRL 2012]]
 
 
 The detectability limit also depends on the heterogeneity in degree and community sizes. To my surprise, heterogeneity makes it easy for algorithms to identify communities.
 
-- Ill-defined communities are more detectable than well-defined communites [[Literature notes/papers/literature note/@radicchiParadoxCommunityDetection2013|@radicchiParadoxCommunityDetection2013]]
-- Degree heterogeneity accerates the ability to detect communities (for the modularity maximization) [[Literature notes/papers/literature note/@radicchiDetectabilityCommunitiesHeterogeneous2013|@radicchiDetectabilityCommunitiesHeterogeneous2013]]
-- (*dense networks*) Detectability limit of networks with communities of different sizes and internal strucure [[Literature notes/papers/literature note/@chenPhaseTransitionsSpectral2014|@chenPhaseTransitionsSpectral2014]]
--  (*dense networks*) Detectability limit for communities of different sizes [[Literature notes/papers/literature note/@chenUniversalPhaseTransition2015|@chenUniversalPhaseTransition2015]]
+- Ill-defined communities are more detectable than well-defined communites [[Literature notes/papers/literature note/@radicchiParadoxCommunityDetection2013\|@radicchiParadoxCommunityDetection2013]]
+- Degree heterogeneity accerates the ability to detect communities (for the modularity maximization) [[Literature notes/papers/literature note/@radicchiDetectabilityCommunitiesHeterogeneous2013\|@radicchiDetectabilityCommunitiesHeterogeneous2013]]
+- (*dense networks*) Detectability limit of networks with communities of different sizes and internal strucure [[Literature notes/papers/literature note/@chenPhaseTransitionsSpectral2014\|@chenPhaseTransitionsSpectral2014]]
+-  (*dense networks*) Detectability limit for communities of different sizes [[Literature notes/papers/literature note/@chenUniversalPhaseTransition2015\|@chenUniversalPhaseTransition2015]]
 
 Most study focus on the detectability limit of spectral embedding. What about nueral embedding?
 
--  The detectability limit of the GNN is imposed by the architecture, and the accuracy of performance in detectable regime is attributed to backpropagation [[Literature notes/papers/literature note/@kawamotoMeanfieldTheoryGraph2018|@kawamotoMeanfieldTheoryGraph2018]].  
+-  The detectability limit of the GNN is imposed by the architecture, and the accuracy of performance in detectable regime is attributed to backpropagation [[Literature notes/papers/literature note/@kawamotoMeanfieldTheoryGraph2018\|@kawamotoMeanfieldTheoryGraph2018]].  
