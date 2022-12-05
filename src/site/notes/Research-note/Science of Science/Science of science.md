@@ -17,7 +17,6 @@ updated: 2022-11-28
 - Knowledge production can be better predicated by scientists's activities [[Papers/archive/James Evans arXiv 2021\|James Evans arXiv 2021]]
 
 # Metric fixation 
-
 - Cases: citation engineering
 	- [Citation cartels](https://www.enago.com/academy/citation-cartels-the-mafia-of-scientific-publishing/#:~:text=Citation%20Mafia,more%20than%20other%20relevant%20articles.)
 	- [Citation stacking by Brasilian journals](https://www.nature.com/articles/500510a)
@@ -36,12 +35,12 @@ updated: 2022-11-28
 	- [CIDRE](https://www.nature.com/articles/s41598-021-93572-3)
 	- [Pressure to publish is ‘fuelling illegal practices in palaeontology’](https://www.nature.com/articles/d41586-022-03745-x)
 
-# Science as national endeavor
+# Science policy
 - [How well connected are the world’s leading science cities?](https://www.nature.com/articles/d41586-022-02883-6)
 - [Specialized cities](https://www.nature.com/articles/d41586-022-02880-9)
 - [The driving forces behind the success of Beijing and Shanghai](https://www.nature.com/articles/d41586-022-02882-7)
 
-# Fairness, equity and integrity 
+# Fairness, equity, and integrity 
 - [Decolonizing science toolkit](https://www.nature.com/collections/giaahdbacj)
 - [Institutions must acknowledge the racist roots in science](https://www.nature.com/articles/d41586-022-04123-3)
 - [Within-job gender pay inequality in 15 countries | Nature Human Behaviour](https://www.nature.com/articles/s41562-022-01470-z#Sec3)
