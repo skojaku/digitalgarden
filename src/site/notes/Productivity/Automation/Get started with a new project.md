@@ -21,5 +21,5 @@ conda activate project_env_name
 conda install -c conda-forge mamba -y
 mamba install pytorch torchvision torchaudio cudatoolkit=11.6 -c pytorch -c conda-forge -y
 mamba install -y -c bioconda -c conda-forge snakemake -y
-mamba install -c conda-forge graph-tool scikit-learn numpy numba scipy pandas networkx seaborn matplotlib gensim ipykernel tqdm
+mamba install -c conda-forge graph-tool scikit-learn numpy numba scipy pandas networkx seaborn matplotlib gensim ipykernel tqdm -y
 ```
