@@ -10,6 +10,9 @@ updated: 2022-11-09
 # Concept
 - [[Research-note/Network Science/Random walk\|Random walk]]
 
+# Index
+- [[Research-note/Network Science/Disruption index\|Disruption index]]
+
 # Network models
 - [[Research-note/Network Science/Preferential attachment model\|Preferential attachment model]]
 - [[Research-note/Network Science/Long term citation model\|Long term citation model]]
