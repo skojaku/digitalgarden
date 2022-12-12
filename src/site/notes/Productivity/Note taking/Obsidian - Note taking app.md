@@ -10,6 +10,7 @@ updated: 2022-11-24
 
 # Notes
 - [[Productivity/Literature review/Setting up citation plugin - Obsidian\|Setting up citation plugin - Obsidian]]
+- [[Tools for litelature reviews\|Tools for litelature reviews]]
 
 # Plugins
 - Tag management [GitHub - pjeby/tag-wrangler: Rename, merge, toggle, and search tags from the Obsidian tag pane](https://github.com/pjeby/tag-wrangler)
