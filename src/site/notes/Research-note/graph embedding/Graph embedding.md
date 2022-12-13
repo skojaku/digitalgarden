@@ -30,9 +30,12 @@ This family of neural embedding adapts a word embedding model for graph embeddin
 
 
 ## Based on convolusion
-- Graph Convolusional network 
+- Graph Convolutional network 
 - Graph Attention Network 
 - GraphSAGE
 
 # Properties 
 - [[Research-note/Community detection/Detectability limit of communities\|Detectability limit of communities]]
+
+# Analysis
+- [[Research-note/graph embedding/Embedding alignment\|Embedding alignment]]
