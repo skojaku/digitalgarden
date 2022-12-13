@@ -33,11 +33,13 @@ Jビザの有効期限は最大で一年と、とても短い。もしJ1ビザ�
 3. ビザ申請費用振り込み証明を取得する
 	- [米国ビザ申請 | 銀行および支払いのオプション \ ビザ申請料金を支払う - 日本 (日本語)](https://www.ustraveldocs.com/jp_jp/jp-niv-paymentinfo.asp)
 4. 証明写真（2''x 2''=51mm x 51mm，6 ヶ月以内に撮影した背景白のカラー写真）を用意
-	- [Make United States Visa Photo Online with 2x2 inch (51x51 mm, 5.1x5.1 cm) Size and Requirements](https://www.idphotodiy.com/photo-requirements.php?country=US&type=Visa)
+	1. [Photo-tool](https://tsg.phototool.state.gov/photo)
 5. 有効なDS-2019を用意
 6. パスポート (6ヶ月以上の残存機関、過去10年分全て)を用意
 
 以上の書類を封筒に入れて指定の住所に送る。再申請の場合、面談が免除されて郵送だけで手続きが完了できる場合がある。私も一度郵送で手続きを行ったが、発送から返送までおおよそ２週間ほどかかった。滞在期間が短い場合は注意が必要である。空港内の郵便局で到着直後に発送することをおすすめする。
+
+- [米国ビザ申請 | ビザを更新する - 日本 (日本語)](https://www.ustraveldocs.com/jp_jp/jp-niv-visarenew.asp)
 
 
 # 大学でTeachingをする際の注意点
