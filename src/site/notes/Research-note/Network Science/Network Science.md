@@ -20,3 +20,4 @@ updated: 2022-11-09
 
 # Community detection 
 - [[Research-note/Network Science/Belief propagation algorithm\|Belief propagation algorithm]]
+- [[Ground truth and community detection\|Ground truth and community detection]]
