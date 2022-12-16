@@ -15,7 +15,7 @@ date: 2022-03-21
 A cornerstone of the random matrix is [Wigner's semi-circle law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution), which explains that the eigenvalues of a random matrix are bounded. This law, however, breaks if the random mtarix is extremely sparse, a problem called the leaky eigenvalue problem.
 
 # References 
-- [[Papers/archive/Georges arXiv 2017\|Georges arXiv 2017]]
+- [[Misc/Papers/archive/Georges arXiv 2017\|Georges arXiv 2017]]
 - http://helper.ipam.ucla.edu/publications/qlaws3/qlaws3_14643.pdf
 
 ### Range of extreme eigenvalues
