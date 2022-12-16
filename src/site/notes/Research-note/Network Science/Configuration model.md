@@ -19,7 +19,7 @@ An often appreciated fact is that there are multiple specificications of the con
 
 ### Weighted networks 
 
-A naive extension of the configuration model to weighted networks is to regard an edge with weight $w$ as $w$ edges of weight one. This heuristics is cheap and preserved the weighted degree (or strength). However, it does not preserve the number of neighbor of each node, or simply degree. This is a critical problem as degree is a fundamental determinant of network structure. 
+A naive extension of the configuration model to weighted networks is to regard an edge with weight $w$ as $w$ edges of weight one. This heuristics is cheap and preserved the weighted degree (or strength). However, it does not preserve the number of neighbors of each node, or simply degree. This is a critical problem as degree is a fundamental determinant of network structure. 
 
 The enhanced configuration model is an extention of the configuration model for unweighted networks. It formulates the configuration model as a canonical model constrained by degree. To respect to edge weights, it adds additional constraints on the weighted degree.
 
