@@ -19,13 +19,14 @@ An often appreciated fact is that there are multiple specificications of the con
 
 ### Weighted networks 
 
-A naive extention of the configuration model to weighted networks is to regard an edge with weight $w$ as $w$ edges of weight one. This heuristics is cheap and preserved the weighted degree (or strength). However, it does not preserve the number of neighbor of each node, or simply degree. This is a critical problem as degree is a fundamental determinant of network structure. 
+A naive extension of the configuration model to weighted networks is to regard an edge with weight $w$ as $w$ edges of weight one. This heuristics is cheap and preserved the weighted degree (or strength). However, it does not preserve the number of neighbor of each node, or simply degree. This is a critical problem as degree is a fundamental determinant of network structure. 
 
 The enhanced configuration model is an extention of the configuration model for unweighted networks. It formulates the configuration model as a canonical model constrained by degree. To respect to edge weights, it adds additional constraints on the weighted degree.
 
 - [Phys. Rev. Lett. 102, 038701 (2009) - Generalized Bose-Fermi Statistics and Structural Correlations in Weighted Networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.038701)
 - [Enhanced reconstruction of weighted networks from strengths and degrees - IOPscience](https://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
-
+- [Fast and scalable likelihood maximization for Exponential Random Graph Models with local constraints | Scientific Reports](https://www.nature.com/articles/s41598-021-93830-4)
+ 
 ### Directed acyclic graph (DAG)
 
 Directed acyclic graph is networks without loops. In DAG, each edge is directed and always pointing from a higher to lower levels of a hirarchy. A configuration model that repsects this constraint is proposed by 
@@ -56,3 +57,5 @@ If multiedges are allowed, an easy and cheap method is so-called Chung-Lu model.
 
 - [Connected Components in Random Graphs with Given Expected Degree Sequences | SpringerLink](https://link.springer.com/article/10.1007/PL00012580)
 
+## Unweighted, weighted, directed
+- [Fast and scalable likelihood maximization for Exponential Random Graph Models with local constraints | Scientific Reports](https://www.nature.com/articles/s41598-021-93830-4)
