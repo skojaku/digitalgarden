@@ -13,8 +13,8 @@ updated: 2022-11-28
 - [Specialized cities](https://www.nature.com/articles/d41586-022-02880-9)
 
 # Collaborations 
-- Universities play a key role in scintific activities [[Papers/archive/Duede arXiv 2021\|Duede arXiv 2021]]
-- Knowledge production can be better predicated by scientists's activities [[Papers/archive/James Evans arXiv 2021\|James Evans arXiv 2021]]
+- Universities play a key role in scintific activities [[Misc/Papers/archive/Duede arXiv 2021\|Duede arXiv 2021]]
+- Knowledge production can be better predicated by scientists's activities [[Misc/Papers/archive/James Evans arXiv 2021\|James Evans arXiv 2021]]
 
 # Metric fixation 
 - Cases: citation engineering
