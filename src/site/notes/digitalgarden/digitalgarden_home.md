@@ -45,4 +45,5 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
 - [[Life/Living\|Living]]
 - [[Life/J Visa\|J Visa]]
+- [[Life/Notes on jobs\|Notes on jobs]]
 - [[Productivity/Career/Academia life\|Academia life]]
