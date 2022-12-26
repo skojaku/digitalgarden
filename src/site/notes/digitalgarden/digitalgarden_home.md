@@ -20,12 +20,13 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Research-note/Science of Science/Science of science#Metric fixation\|Science of science#Metric fixation]]
 - [[Core-periphery structure\|Core-periphery structure]]
 
-## Research Note:
+## Research Note
 - [[Research-note/Network Science/Network Science\|Network Science]]
 - [[Research-note/Machine learning/Machine Learning\|Machine Learning]]
 - [[Research-note/Science of Science/Science of science\|Science of science]]
+- [[Research project management\|Research project management]]
 
-## Coding
+## Products
 - [[Set ups, automation, and coding/Code\|Code]]
 - [[Research-note/know-how/Python\|Python]]
 
@@ -45,5 +46,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
 - [[Life/Living\|Living]]
 - [[Life/J Visa\|J Visa]]
-- [[Life/Notes on jobs\|Notes on jobs]]
+- [[Life/Notes on jobs\|Life/Notes on jobs]]
 - [[Productivity/Career/Academia life\|Academia life]]
+- [[Research-note/Funding/Funding\|Funding]]
+- [[Research project management\|Research project management]]
