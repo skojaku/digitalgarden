@@ -31,6 +31,14 @@ c(t) = (c_i + m)\exp\left[F(t;\theta_i) - F(T;\theta_i) \right] - m
 $$
 Note that I follow the derivation by [a follow-up study](https://ojs.aaai.org/index.php/AAAI/article/view/8739), which amends a mathematical leap in [the original paper](https://www.science.org/doi/abs/10.1126/science.1237825).
 
+## Fitting algorithm 
+
+Regarding the fitting algorithm, the original paper employes a least-squared fit (Equation 3 in the original paper). Alternatively, the maximum likelihood method can be used  [(see here)](https://drive.google.com/file/d/1BRfXVSbMV4SZy24PsP21KPidWnyppVCl/view?usp=sharing). 
+
+Tthe long-term citation model is *overparameterized*. Each paper is characterized by three parameters, resulting in *3N* parameters to be estimated. Consequently, the long-term citaiton tends to overfit, especially for papers with few citations. 
+
+Another approach is to formulate the estimation from a Bayesian perspective and introduce a prior that regulates the model's excessive fitting to data. See [a follow-up study](https://ojs.aaai.org/index.php/AAAI/article/view/8739).
+
 ##  Critiques
 The long-term citation model demonstrated an excellent predictive capacity of citations, which is later questioned [Comment on “Quantifying long-term scientific impact” | Science](https://www.science.org/doi/10.1126/science.1248770). 
 
