@@ -34,9 +34,9 @@ input_file = snakemake.input["input_file"]
 output_file = snakemake.output["output_file"]
 ```
 
-I favor `script` because it makes workflow more readable and makes it easier to pass many variables. The `shell` can be lengthy, especially when there are many variables (`input`, `output`, `params`, `resources`, etc.). Furthermore, the `shell` creates an implicit dependency. For instance, the arguments are order sensitive, meaning the order of ideas should be matched to that assumed in the script. This can disaster in many ways, e.g., misspecifying parameter values and overriding input files.
+I favor `script` because it makes workflow more readable and makes it easier to pass many variables. The `shell` can be lengthy, especially when there are many variables (`input`, `output`, `params`, `resources`, etc.). With`shell`, the arguments are order sensitive, incurring an additional maintenance cost. With `script`, each parameter is specified by parameter names, which is a big plus in terms of readability. 
 
-A drawback of the `script` is that it makes the script non-standalone; you can run it only via snakemake because otherwise, the `snakemake` object is not created. This is not a good feature when testing the hand.  One way to make it standalone is to check that `snakemake` is defined, e.g., 
+A drawback of the `script` is that it makes the script non-standalone; you can run it only via snakemake because otherwise, the `snakemake` object is not created. This is not a good feature when testing the hand.  One way to make it standalone is to check if `snakemake` is defined before accessing it: 
 ```python
 import sys
 
@@ -49,4 +49,4 @@ else:
     citation_embedding_model_file = "models/clustering_model"
     output_file = "models/clustering_model"
 ```
-This way, I can retrieve the variables from `snakemake` only when `snakemake` is created. Otherwise, I set the variables *directly* in the script so that I could run the script without `snakemake`. 
+This way, I can retrieve the variables from `snakemake` only when `snakemake` is created. Otherwise, I set the variables *directly* in the script so that I could run the script without `snakemake` for testing.
