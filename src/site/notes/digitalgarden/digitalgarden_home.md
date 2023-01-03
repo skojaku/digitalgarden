@@ -24,7 +24,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Research-note/Network Science/Network Science\|Network Science]]
 - [[Research-note/Machine learning/Machine Learning\|Machine Learning]]
 - [[Research-note/Science of Science/Science of science\|Science of science]]
-- [[Research project management\|Research project management]]
+- [[Research-note/Research project management\|Research project management]]
 
 ## Products
 - [[Set ups, automation, and coding/Code\|Code]]
@@ -49,4 +49,4 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Life/Notes on jobs\|Life/Notes on jobs]]
 - [[Productivity/Career/Academia life\|Academia life]]
 - [[Research-note/Funding/Funding\|Funding]]
-- [[Research project management\|Research project management]]
+- [[Research-note/Research project management\|Research project management]]
