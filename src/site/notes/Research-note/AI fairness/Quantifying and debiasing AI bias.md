@@ -13,6 +13,7 @@ updated: 2023-01-09
 Understanding the bias manifold in embedding is instrumental in designing debiasing algorithms. This seminal work demonstrates that word embedding has a linear axis accounting for gender-bias, i.e., bias dimensions.
 
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html)
+
 Some word emebdding models including Glove and SGNS word2vec embed bias into a linear subspace because the word associations are captured by frequency ratios. 
 
 - The conjecture is provided by [GloVe: Global Vectors for Word Representation - ACL Anthology](https://aclanthology.org/D14-1162/).
