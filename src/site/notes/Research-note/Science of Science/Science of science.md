@@ -13,7 +13,7 @@ updated: 2022-11-28
 - [[Research-note/Science of Science/Metric fixation\|Metric fixation]]
 - [[Research-note/Science of Science/Scientific mobility\|Scientific mobility]]
 - [[Research-note/Science of Science/Fairness, integrity and equity of science\|Fairness, integrity and equity of science]]
-- [[AI in Science\|AI in Science]]
+- [[Research-note/Science of Science/AI in Science\|AI in Science]]
 - [[Research-note/Science of Science/Science policy\|Science policy]]
 
 ## Trivia
