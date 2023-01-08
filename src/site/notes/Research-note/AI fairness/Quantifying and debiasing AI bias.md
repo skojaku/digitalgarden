@@ -3,7 +3,7 @@
 ---
 
 
-# Debiasing AI bias
+# Quantifying and debiasing AI bias
 updated: 2023-01-09
 
 #ai-bias 
