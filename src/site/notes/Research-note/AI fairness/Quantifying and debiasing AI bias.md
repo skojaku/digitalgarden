@@ -6,6 +6,7 @@
 # Debiasing AI bias
 updated: 2023-01-09
 
+#ai-bias 
 
 ## Understanding and quantifying bias manifold
 
