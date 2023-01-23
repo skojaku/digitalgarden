@@ -56,8 +56,12 @@ Alternatively, one can identify the bias a posteriori from the embedding:
 
 
 ## Debiasing 
-
-- Linear projection
+- Debiasing by modifying input data:
+	- [Process for Adapting Language Models to Society (PALMS) with Values-Targeted Datasets](https://proceedings.neurips.cc/paper/2021/hash/2e855f9489df0712b4bd8ea9e2848c5a-Abstract.html)
+	- [Understanding the Origins of Bias in Word Embeddings](https://proceedings.mlr.press/v97/brunet19a.html)
+	- [Fairwalk: Towards Fair Graph Embedding | IJCAI](https://www.ijcai.org/proceedings/2019/456)
+	- [CrossWalk: Fairness-Enhanced Node Representation Learning | Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/21454)
+- Linear projection:
 	- [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://papers.nips.cc/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html)
 	- Iterative linear projection: [Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection - ACL Anthology](https://aclanthology.org/2020.acl-main.647/)
 - Debiasing by training
