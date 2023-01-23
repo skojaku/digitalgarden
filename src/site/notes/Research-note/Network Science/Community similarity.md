@@ -6,7 +6,14 @@
 # Community similarity
 updated: 2022-12-13
 #network-science/community-detection 
- 
+
+## Modularity 
+- [Modularity and community structure in networks | PNAS](https://www.pnas.org/doi/10.1073/pnas.0601602103)
+- 
+- [Analytical maximum-likelihood method to detect patterns in real networks - IOPscience](https://iopscience.iop.org/article/10.1088/1367-2630/13/8/083001)
+-
+
+
 - Variation of Information: 
 	- Variation of Information is a distance metric.
 	- [Comparing Clusterings by the Variation of Information | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-540-45167-9_14)
