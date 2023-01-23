@@ -22,3 +22,4 @@ updated: 2022-11-09
 - [[Research-note/Network Science/Belief propagation algorithm\|Belief propagation algorithm]]
 - [[Research-note/Network Science/Ground truth and community detection\|Ground truth and community detection]]
 - [[Research-note/Network Science/Community similarity\|Community similarity]]
+- [[Misc/Interviews/Binghamton/Statistical mechanics of community detection\|Statistical mechanics of community detection]]
