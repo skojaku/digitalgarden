@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/digitalgarden/digitalgarden-home/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/digitalgarden/digitalgarden-home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
