@@ -26,9 +26,11 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Research-note/Science of Science/Science of science\|Science of science]]
 - [[Research-note/Research project management\|Research project management]]
 
+
 ## Products
 - [[Set ups, automation, and coding/Code\|Code]]
 - [[Research-note/know-how/Python\|Python]]
+
 
 
 # Teaching (data visualization)
@@ -41,6 +43,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Productivity/Note taking/Obsidian - Note taking app\|Obsidian - Note taking app]]
 - [[Productivity/Automation/Snakemake - workflow management\|Snakemake - workflow management]]
 - [[VS code\|VS code]]
+- [[Misc/Bookmarks/Nomic\|Nomic]] (embedding visualization)
 
 # Misc
 - [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
