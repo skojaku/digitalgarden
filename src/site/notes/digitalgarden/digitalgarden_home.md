@@ -49,7 +49,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
 - [[Life/Living\|Living]]
 - [[Life/J Visa\|J Visa]]
-- [[Life/Notes on jobs\|Life/Notes on jobs]]
+- [[Interesting pieces\|Interesting pieces]]
 - [[Productivity/Career/Academia life\|Academia life]]
 - [[Research-note/Funding/Funding\|Funding]]
 - [[Research-note/Research project management\|Research project management]]
