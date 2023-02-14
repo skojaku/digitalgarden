@@ -43,6 +43,14 @@ The enhanced configuration model can preserve the node strengths.
 - [Phys. Rev. Lett. 102, 038701 (2009) - Generalized Bose-Fermi Statistics and Structural Correlations in Weighted Networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.038701)
 - [Enhanced reconstruction of weighted networks from strengths and degrees - IOPscience](https://iopscience.iop.org/article/10.1088/1367-2630/16/4/043022)
 
+One can decouple edge placement and weight distribution process and yield a more computationally efficient algorithms, which is an idea at the heart of the conditional maximum-entropy reconstruction models (CREM):
+
+[A faster horse on a safer trail: generalized inference for the efficient reconstruction of weighted networks - IOPscience](https://iopscience.iop.org/article/10.1088/1367-2630/ab74a7/meta)
+
+See also my note [[Literature notes/papers/@parisiFasterHorseSafer2020\|@parisiFasterHorseSafer2020]].
+
+
+
 ### Directed acyclic graph (DAG)
 
 Directed acyclic graph is a network without loops. In DAG, each edge is directed and always pointing from a higher to lower levels of a hirarchy. A configuration model that repsects this constraint is proposed by 
@@ -60,6 +68,7 @@ The configuration model for correlation data builds on the principle of maximum 
 There are many other null models for correlation networks, apart from the configuration model:
 
 - [Phys. Rev. X 5, 021006 (2015) - Community Detection for Correlation Matrices](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.021006)
+
 
 
 ## Algorithms
@@ -84,3 +93,4 @@ The enhanced configuration model can handle weighted and directed networks. A fa
 If the network is DAG, we can utilize the ordering of nodes to efficiently generate the configuration model:
 
 - [Phys. Rev. E 80, 046110 (2009) - Random graph models for directed acyclic networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.80.046110)
+
