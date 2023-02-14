@@ -40,7 +40,7 @@ Although the machines successfully rediscover some physical laws, it remains unc
 ### Computational microscope
 A microscope enables us to understand objects that are otherwise invisible to us. Computational microscope enables the investigation of objects or processes that cannot be visualized or probed in any other way, i.e., biological, chemical, or physical processes that happen at length and time scales not accessible in experiments. 
 
-The computationa microscope has evolved in two directions, namely increasing complexity and accuracy driven by the increasing power of computation and advances in data representation. 
+The computational microscope has evolved in two directions, namely increasing complexity and accuracy driven by the increasing power of computation and advances in data representation. 
 
 In particular, data representation is the key to enabling humans to grasp the underlying structures and facilitate new scientific understanding. 
 
