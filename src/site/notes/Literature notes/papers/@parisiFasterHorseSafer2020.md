@@ -14,7 +14,7 @@ by Federica Parisi, Tiziano Squartini, Diego Garlaschelli
 ---
 
 ## Summary 
-This paper focuses on the class of configuration models for weighted networks and provide efficient yet maximally random weighted random networks preserving the degree and strength of nodes.
+This paper focuses on the class of configuration models for weighted networks and provides efficient yet maximally random weighted random networks preserving the degree and strength of nodes based on an idea of *conditional* maximum entropy. The model takes a probability distribution $P(A)$ of network topology $A$ and distributes the edge weght that are maximally random.
 
 ## Results
 ### Prevailing approaches and limitations
