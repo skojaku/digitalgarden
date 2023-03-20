@@ -23,3 +23,4 @@ However, the disruption index has critical flaws, such as the sensitivity to mis
 - [A confusing definition of disruption](https://osf.io/preprints/socarxiv/d3wpk/)
 - [Rethinking the disruption index as a measure of scientific and technological advances - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0040162521005035)
 
+Is the disruption index a discontinuous index?
