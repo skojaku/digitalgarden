@@ -12,3 +12,5 @@ updated: 2022-11-16
 - [[Research-note/Machine learning/Noise contrastive learning\|Noise contrastive learning]]
 - [[Productivity/Automation/Evaluating rankings\|Evaluating rankings]]
 - [[Research-note/Machine learning/Performance metrics\|Performance metrics]]
+- [[Neural networks\|Neural networks]]
+- [[Representation learning\|Representation learning]]
