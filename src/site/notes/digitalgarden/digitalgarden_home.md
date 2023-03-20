@@ -26,10 +26,14 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Research-note/Science of Science/Science of science\|Science of science]]
 - [[Research-note/Research project management\|Research project management]]
 
-
 ## Products
 - [[Set ups, automation, and coding/Code\|Code]]
 - [[Research-note/know-how/Python\|Python]]
+
+## Data
+- [World of Code (WoC)](https://worldofcode.org/)
+- [OpenAlex: The open catalog to the global research system](https://openalex.org/)
+- [PatentsView](https://patentsview.org/)
 
 
 
@@ -49,7 +53,10 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
 - [[Life/Living\|Living]]
 - [[Life/J Visa\|J Visa]]
-- [[Interesting pieces\|Interesting pieces]]
+- [[Misc/Interviews/Binghamton/Interesting pieces\|Interesting pieces]]
 - [[Productivity/Career/Academia life\|Academia life]]
 - [[Research-note/Funding/Funding\|Funding]]
 - [[Research-note/Research project management\|Research project management]]
+- [[Interesting anecodes\|Interesting anecodes]]
+- [[Books\|Books]]
+- [[Generative AI\|Generative AI]]
