@@ -7,7 +7,7 @@
 
 updated: 2023-03-20
 
-When Richard Feynman first introduced his revolutionary Feynman diagram in theoretical physics, it was met with confusion at the Pocono conference. This was partly because Feynman spoke a mathematical language that could not be understood by physicist at that time. Worse still, Feynman did not publish anything about his invention. The Feynman diagram was nearly faded away. 
+When Richard Feynman first introduced his revolutionary Feynman diagram in theoretical physics, it was met with confusion at the Pocono conference. This was partly because Feynman spoke a mathematical language that could not be understood by physicists at that time. Worse still, Feynman did not publish anything about his invention. The Feynman diagram nearly faded away. 
 
 However, the Feynman diagram revived and even was florished thanks to Freeman Dyson, a graduate student at the time and a friend of Feynman's at Cornell. Dyson published two papers that provided step-by-step rules for drawing the diagram and its mathematical elements, making it more accessible and understandable for others.
 
