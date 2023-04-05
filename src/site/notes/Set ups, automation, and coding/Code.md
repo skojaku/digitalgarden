@@ -18,7 +18,7 @@ updated: 2022-11-11
 
 ## Embedding
 - [Practical guide to sentence embedding](https://github.com/skojaku/Practical-Guide-to-Sentence-Transformers)
-- [node2vec](https://github.com/skojaku/node2vec) #network-science/graph-embedding
+- [Graph embedding](https://github.com/skojaku/graphvec) #network-science/graph-embedding
 - [residual2vec](https://github.com/skojaku/residual2vec) #network-science/graph-embedding 
  
 ## Machine Learning
