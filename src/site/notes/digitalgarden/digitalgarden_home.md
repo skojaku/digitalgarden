@@ -29,6 +29,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 ## Products
 - [[Set ups, automation, and coding/Code\|Code]]
 - [[Research-note/know-how/Python\|Python]]
+- [[Latex\|Latex]]
 
 ## Data
 - [World of Code (WoC)](https://worldofcode.org/)
