@@ -29,14 +29,12 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 ## Products
 - [[Set ups, automation, and coding/Code\|Code]]
 - [[Research-note/know-how/Python\|Python]]
-- [[Latex\|Latex]]
+- [[Misc/archive/Latex\|Latex]]
 
 ## Data
 - [World of Code (WoC)](https://worldofcode.org/)
 - [OpenAlex: The open catalog to the global research system](https://openalex.org/)
 - [PatentsView](https://patentsview.org/)
-
-
 
 # Teaching (data visualization)
 - [[Teaching/datavis/note/Perception - data vis\|Perception - data vis]]
@@ -47,8 +45,8 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 #  Tools
 - [[Productivity/Note taking/Obsidian - Note taking app\|Obsidian - Note taking app]]
 - [[Productivity/Automation/Snakemake - workflow management\|Snakemake - workflow management]]
-- [[VS code\|VS code]]
-- [[Misc/Bookmarks/Nomic\|Nomic]] (embedding visualization)
+- [[Tool Pool\|Tool Pool]]
+
 
 # Misc
 - [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
@@ -58,6 +56,6 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Productivity/Career/Academia life\|Academia life]]
 - [[Research-note/Funding/Funding\|Funding]]
 - [[Research-note/Research project management\|Research project management]]
-- [[Interesting anecodes\|Interesting anecodes]]
-- [[Books\|Books]]
-- [[Generative AI\|Generative AI]]
+- [[Misc/archive/Interesting anecodes\|Interesting anecodes]]
+- [[Misc/archive/Books\|Books]]
+- [[Misc/archive/Generative AI\|Generative AI]]
