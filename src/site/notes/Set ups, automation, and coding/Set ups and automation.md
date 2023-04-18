@@ -10,7 +10,7 @@ updated: 2022-09-16
 ## Automation 
 - [[Productivity/Automation/Automate switching conda environment\|Automate switching conda environment]]
 - [[Productivity/Automation/Automate file sharing through cloud\|Automate file sharing through cloud]]
-- [[Keyboard maestro\|Keyboard maestro]]
+- [[Keyboard Maestro\|Keyboard maestro]]
 - [[Productivity/Automation/Snakemake - workflow management\|Snakemake - workflow management]]
 
 
