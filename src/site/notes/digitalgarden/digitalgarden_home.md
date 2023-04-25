@@ -16,7 +16,7 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Research-note/Community detection/Detectability limit of communities\|Detectability limit of communities]]
 - [[Research-note/AI fairness/Biases in AIs\|Biases in AIs]]
 - [[Research-note/Name disambiguation/Author name disambiguation\|Author name disambiguation]]
-- [[Mapping scientific foraging\|Mapping scientific foraging]]
+- [[New notes/Mapping scientific foraging\|Mapping scientific foraging]]
 - [[Research-note/Science of Science/Science of science#Metric fixation\|Science of science#Metric fixation]]
 - [[Core-periphery structure\|Core-periphery structure]]
 
@@ -25,37 +25,20 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[Research-note/Machine learning/Machine Learning\|Machine Learning]]
 - [[Research-note/Science of Science/Science of science\|Science of science]]
 - [[Research-note/Research project management\|Research project management]]
+- [[Misc/archive/Generative AI\|Generative AI]]
 
 ## Products
-- [[Set ups, automation, and coding/Code\|Code]]
+- [[Misc/Set ups, automation, and coding/Code\|Code]]
 - [[Research-note/know-how/Python\|Python]]
 - [[Misc/archive/Latex\|Latex]]
 
-## Data
-- [World of Code (WoC)](https://worldofcode.org/)
-- [OpenAlex: The open catalog to the global research system](https://openalex.org/)
-- [PatentsView](https://patentsview.org/)
+## Misc
+- [[Misc/archive/Visualization\|Visualization]]
+- [[New notes/Data\|Data]]
+- [[New notes/Productivity\|Productivity]]
+- [[New notes/Life\|Life]]
 
 # Teaching (data visualization)
-- [[Teaching/datavis/note/Perception - data vis\|Perception - data vis]]
-- [[Teaching/datavis/note/Design - data vis\|Design - data vis]]
-- [[Teaching/datavis/note/Tidy Data\|Tidy Data]]
-- [[Teaching/datavis/note/1D data\|1D data]]
+- [[New notes/Data visualization\|Data visualization]]
+- [[Network Science for ML\|Network Science for ML]]
 
-#  Tools
-- [[Productivity/Note taking/Obsidian - Note taking app\|Obsidian - Note taking app]]
-- [[Productivity/Automation/Snakemake - workflow management\|Snakemake - workflow management]]
-- [[Tool Pool\|Tool Pool]]
-
-
-# Misc
-- [[Set ups, automation, and coding/Set ups and automation\|Set ups and automation]]
-- [[Life/Living\|Living]]
-- [[Life/J Visa\|J Visa]]
-- [[Misc/Interviews/Binghamton/Interesting pieces\|Interesting pieces]]
-- [[Productivity/Career/Academia life\|Academia life]]
-- [[Research-note/Funding/Funding\|Funding]]
-- [[Research-note/Research project management\|Research project management]]
-- [[Misc/archive/Interesting anecodes\|Interesting anecodes]]
-- [[Misc/archive/Books\|Books]]
-- [[Misc/archive/Generative AI\|Generative AI]]
