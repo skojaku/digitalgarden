@@ -22,8 +22,8 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[L01 - Work/L01 - research note/Code\|Code]]
 
 ## Misc
-- [[L01 - Work/L06 - tools & configuration/L02 - config/Setup\|Setup]]
-- [[L01 - Work/L06 - tools & configuration/L04 - know-how/Management\|Management]]
+- [[L01 - Work/L06 - tools and config/L02 - config/Setup\|Setup]]
+- [[L01 - Work/L06 - tools and config/L04 - know-how/Management\|Management]]
 - [[L01 - Work/L03 - data/Data\|Data]]
 
 
