@@ -6,7 +6,6 @@
 # Python code
 updated: 2022-11-11
 
-
 ## Network analysis 
 - [Disruption index](https://gist.github.com/skojaku/cee26755645b133a69d6630c79307cde#file-calc_disruption_index-py) #network-science/disruption-index
 - [Long-term citation model](https://gist.github.com/skojaku/8494552b3012d047f6555b5f322e3eaf) #network-science/citation-dynamics 
