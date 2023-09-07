@@ -3,7 +3,7 @@
 ---
 
 
-## Networks 
+# Networks 
 
 | code                                                                                                            | tags                                                   |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
@@ -28,5 +28,5 @@
 | code                                                                                                         | tags                             |
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------- |
 | [Practical guide to sentence embedding](https://github.com/skojaku/Practical-Guide-to-Sentence-Transformers) | #machine-learning/text-embedding |
-| [Multilabel classification algorithms based on k-nearest neighbor algorithms](https://github.com/skojaku/multilabel_knn)| | #machine-learning/classification                                                                                                              |                                  |
-| [Birch algorithm based on cosine similarity](https://gist.github.com/skojaku/2a52178cbf9dade53c69c54208a1b1f0) | #machine-learning/clustering  |                                                                                                             |                                  |
+| [Multilabel classification algorithms based on k-nearest neighbor algorithms](https://github.com/skojaku/multilabel_knn)| #machine-learning/classification | 
+| [Birch algorithm based on cosine similarity](https://gist.github.com/skojaku/2a52178cbf9dade53c69c54208a1b1f0) | #machine-learning/clustering |                                                                                                 
