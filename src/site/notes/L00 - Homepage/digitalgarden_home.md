@@ -9,36 +9,22 @@
 
 This is my [Digital garden](https://maggieappleton.com/garden-history), where I share my notes and thoughts. 
 
-# Research
-
-## My research 
-- [[L01 - Work/L01 - Research note/graph embedding/Graph embedding\|Graph embedding]]
-- [[L01 - Work/L01 - Research note/Community detection/Detectability limit of communities\|Detectability limit of communities]]
-- [[L01 - Work/L01 - Research note/AI fairness/Biases in AIs\|Biases in AIs]]
-- [[L01 - Work/L01 - Research note/Name disambiguation/Author name disambiguation\|Author name disambiguation]]
-- [[L01 - Work/L01 - Research projects/Mapping scientific foraging\|Mapping scientific foraging]]
-- [[L01 - Work/L01 - Research note/graph embedding/Science of Science/Science of science#Metric fixation\|Science of science#Metric fixation]]
-- [[Core-periphery structure\|Core-periphery structure]]
-
 ## Research Note
-- [[L01 - Work/L01 - Research note/Network Science/Network Science\|Network Science]]
-- [[L01 - Work/L01 - Research note/Machine learning/Machine Learning\|Machine Learning]]
-- [[L01 - Work/L01 - Research note/graph embedding/Science of Science/Science of science\|Science of science]]
-- [[L01 - Work/L02 - Productivity & Tools/Research project management\|Research project management]]
+- [[L01 - Work/L01 - research note/Network Science/Network Science\|Network Science]]
+- [[L01 - Work/L01 - research note/Machine learning/Machine Learning\|Machine Learning]]
+- [[L01 - Work/L01 - research note/graph embedding/Science of Science/Science of science\|Science of science]]
+- [[Research project management\|Research project management]]
 - [[Generative AI\|Generative AI]]
 
+## Teaching 
+- [[L01 - Work/L02 - teaching/Data visualization\|Data visualization]]
+- [[L01 - Work/L02 - teaching/Network Science/Advanced Topics in Network Science (SSIE 641) - 3 credits\|Advanced Topics in Network Science (SSIE 641) - 3 credits]]
+
 ## Products
-- [[L01 - Work/L01 - Research note/Code\|Code]]
-- [[L01 - Work/L02 - Productivity & Tools/Python\|Python]]
-- [[Latex\|Latex]]
+- [[L01 - Work/L01 - research note/Code\|Code]]
 
 ## Misc
-- [[Visualization\|Visualization]]
-- [[L01 - Work/L02 - Data/Data\|Data]]
-- [[L01 - Work/L02 - Productivity & Tools/Productivity\|Productivity]]
-- [[Life\|Life]]
+- [[L01 - Work/L03 - data/Data\|Data]]
+- [[L01 - Work/L06 - tools & configuration/L04 - know-how/Management\|Management]]
 
-# Teaching (data visualization)
-- [[L01 - Work/L02 - Teaching/Data visualization\|Data visualization]]
-- [[Network Science for ML\|Network Science for ML]]
 
