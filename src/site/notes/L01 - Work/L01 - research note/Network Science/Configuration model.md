@@ -94,3 +94,5 @@ If the network is DAG, we can utilize the ordering of nodes to efficiently gener
 
 - [Phys. Rev. E 80, 046110 (2009) - Random graph models for directed acyclic networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.80.046110)
 
+## Properties: 
+- [Spectra of random graphs with given expected degrees](https://www.pnas.org/doi/epdf/10.1073/pnas.0937490100)
