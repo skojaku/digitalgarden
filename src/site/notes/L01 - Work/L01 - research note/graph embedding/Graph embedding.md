@@ -41,7 +41,15 @@ Mini-batching networks for scalable computation
 [Cluster-GCN | Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining](https://dl.acm.org/doi/abs/10.1145/3292500.3330925)
 
 
-# Clustering 
+# Clustering
+
+
+# Modeling networks with embedding 
+ 
+Modeling growth of networks by a geometric branching process, in which a parent node is split into multiple offspring that inherit the properties of the parent, which can regenerate numerous ubiquitous network features, including degree heterogeneity and stable community structure. It is an inverse transformation of geometric renormalization. 
+
+- [Scaling up real networks by geometric branching growth | PNAS](https://www.pnas.org/doi/10.1073/pnas.2018994118)
+
 
 
 # References
