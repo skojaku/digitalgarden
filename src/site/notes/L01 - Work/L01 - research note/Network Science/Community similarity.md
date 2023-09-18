@@ -9,9 +9,7 @@ updated: 2022-12-13
 
 ## Modularity 
 - [Modularity and community structure in networks | PNAS](https://www.pnas.org/doi/10.1073/pnas.0601602103)
-- 
 - [Analytical maximum-likelihood method to detect patterns in real networks - IOPscience](https://iopscience.iop.org/article/10.1088/1367-2630/13/8/083001)
--
 
 
 - Variation of Information: 
