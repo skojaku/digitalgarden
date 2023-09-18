@@ -17,7 +17,7 @@ Our visual system has an ability to perceive a color to be relatively the same u
 ![Color constancy](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kazoo04/20150227/20150227155035.png)
 
 The left and right dress colors in shade are the same color 😳
-![Color perception2](https://pbs.twimg.com/media/CfINXByUYAAPCbE?format=png&name=small)
+![Color perception2](https://pbs.twimg.com/media/CfINXByUYAAPCbE?format=png)
 
 
 ## Why biased?
