@@ -12,9 +12,9 @@ More specifically, suppose a toy network consisting of some communities. Each co
 The detectability limit depends on the sparsity of networks. There are two regimes of network sparsity depending on how the node degree increases with respect to the number of nodes in networks. A network is said to be dense if the average degree increases. If the average degree is constant or decreases, the networks are said to be sparse. 
 
 **dense regime**: Degree increases with respect to the number of nodes
-- Larger window size is better [[L07 - Inbox/@zhangConsistencyRandomwalkBased2021\|@zhangConsistencyRandomwalkBased2021]] [[L07 - Inbox/@barotCommunityDetectionUsing2021\|@barotCommunityDetectionUsing2021]]
-- Non-backtracking walks improve the detectability limit of graph embedding [[L07 - Inbox/@barotCommunityDetectionUsing2021\|@barotCommunityDetectionUsing2021]]
-- Detectability limit for communities of different sizes [[L07 - Inbox/@chenUniversalPhaseTransition2015\|@chenUniversalPhaseTransition2015]]
+- Larger window size is better [[L07 - Inbox/tmp/@zhangConsistencyRandomwalkBased2021\|@zhangConsistencyRandomwalkBased2021]] [[L07 - Inbox/tmp/@barotCommunityDetectionUsing2021\|@barotCommunityDetectionUsing2021]]
+- Non-backtracking walks improve the detectability limit of graph embedding [[L07 - Inbox/tmp/@barotCommunityDetectionUsing2021\|@barotCommunityDetectionUsing2021]]
+- Detectability limit for communities of different sizes [[L07 - Inbox/tmp/@chenUniversalPhaseTransition2015\|@chenUniversalPhaseTransition2015]]
 - Detectability limit of networks with communities of different sizes and internal strucure [[@chenPhaseTransitionsSpectral2014\|@chenPhaseTransitionsSpectral2014]]
 
 **sparse regime**: Degree is fixed constant. 
@@ -26,7 +26,7 @@ The detectability limit also depends on the heterogeneity in degree and communit
 - Ill-defined communities are more detectable than well-defined communites [[@radicchiParadoxCommunityDetection2013\|@radicchiParadoxCommunityDetection2013]]
 - Degree heterogeneity accerates the ability to detect communities (for the modularity maximization) [[@radicchiDetectabilityCommunitiesHeterogeneous2013\|@radicchiDetectabilityCommunitiesHeterogeneous2013]]
 - (*dense networks*) Detectability limit of networks with communities of different sizes and internal strucure [[@chenPhaseTransitionsSpectral2014\|@chenPhaseTransitionsSpectral2014]]
--  (*dense networks*) Detectability limit for communities of different sizes [[L07 - Inbox/@chenUniversalPhaseTransition2015\|@chenUniversalPhaseTransition2015]]
+-  (*dense networks*) Detectability limit for communities of different sizes [[L07 - Inbox/tmp/@chenUniversalPhaseTransition2015\|@chenUniversalPhaseTransition2015]]
 
 Most study focus on the detectability limit of spectral embedding. What about nueral embedding?
 
