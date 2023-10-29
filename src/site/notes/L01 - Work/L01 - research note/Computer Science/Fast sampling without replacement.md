@@ -21,7 +21,7 @@ updated: {{date}}
 	4. Return the indices
 #### Implementation tips
 
-Since $1/w_i$ can be arbitrariry large that can cause overfloating, it would be preferred to transform $X_i$ by 
+Since $1/w_i$ can be arbitrarily large and cause overfloating, it would be preferred to transform $X_i$ by 
 $$
 Z_i:=\log(X_i) =\frac{1}{w_i} \log(u_i)
 $$
