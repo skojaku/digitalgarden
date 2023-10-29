@@ -2,8 +2,12 @@
 {"dg-home":null,"dg-publish":true,"permalink":"/l01-work/l06-tools-and-config/l02-config/anaconda-setup/","dgPassFrontmatter":true}
 ---
 
-## Anaconda 
-Downloading and installing anaconda. And then create `.script` folder and put the following script:
+## Miniforg
+[GitHub - conda-forge/miniforge: A conda-forge distribution.](https://github.com/conda-forge/miniforge)
+
+## Auto-switching conda environment
+
+Create `.script` folder and put the following script:
 ```bash 
 #!/bin/zsh
 
