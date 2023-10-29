@@ -3,6 +3,7 @@
 ---
 
 ## Computer setup
+- [[L01 - Work/L06 - tools and config/L02 - config/Zsh set up\|Zsh set up]]
 - [[L01 - Work/L06 - tools and config/L02 - config/Anaconda setup\|Anaconda setup]]
 - [[L01 - Work/L06 - tools and config/L02 - config/Automate switching conda environment\|Automate switching conda environment]]
 - [[L01 - Work/L06 - tools and config/L02 - config/SSH setup\|SSH setup]]
