@@ -13,11 +13,12 @@ This is my [Digital garden](https://maggieappleton.com/garden-history), where I 
 - [[L01 - Work/L01 - research note/Network Science/Network Science\|Network Science]]
 - [[L01 - Work/L01 - research note/Machine learning/Machine Learning\|Machine Learning]]
 - [[L01 - Work/L01 - research note/graph embedding/Science of Science/Science of science\|Science of science]]
-
 ## Teaching 👨‍🏫
 - [[L01 - Work/L02 - teaching/Data visualization\|Data visualization]]
 - [[L01 - Work/L02 - teaching/Network Science/Advanced Topics in Network Science (SSIE 641) - 3 credits\|Advanced Topics in Network Science (SSIE 641) - 3 credits]]
 
+## Reading
+- [[L01 - Work/L01 - research note/Books/Books\|Books]]
 ## Products 🛍️
 - [[L01 - Work/L01 - research note/Code\|Code]]
 
