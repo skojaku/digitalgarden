@@ -23,3 +23,9 @@ and add the following line to `.bashrc`
 ```
 
 Add a path to conda by copying `conda initialize` blcok in `.bashrc` to `.zshrc`.  And install oh-my-zsh if prefer. 
+# Install oh my zsh without sudo 
+
+```bash 
+curl https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sed -e 's/grep\ \/zsh\$\ \/etc\/shells/which zsh/g' | zsh
+```
+
